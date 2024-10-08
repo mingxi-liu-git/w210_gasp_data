@@ -1,0 +1,1123 @@
+Filename,Location,datetime,AQI,PM2.5,PM10,O3,CO,SO2,NO2,AQI_Class,dataset_id
+1228.jpg,Banani,2022-04-02 15:00:00,,156.0,,,,,,d_Unhealthy,2
+1229.jpg,Banani,2022-04-02 15:00:00,,156.0,,,,,,d_Unhealthy,2
+1230.jpg,Banani,2022-04-02 15:00:00,,156.0,,,,,,d_Unhealthy,2
+1231.jpg,Banani,2022-04-02 15:00:00,,156.0,,,,,,d_Unhealthy,2
+1232.jpg,Banani,2022-04-02 15:00:00,,156.0,,,,,,d_Unhealthy,2
+1233.jpg,Banani,2022-04-02 15:00:00,,156.0,,,,,,d_Unhealthy,2
+1234.jpg,Banani,2022-04-02 15:00:00,,156.0,,,,,,d_Unhealthy,2
+1235.jpg,Banani,2022-04-02 15:00:00,,156.0,,,,,,d_Unhealthy,2
+1236.jpg,Banani,2022-04-02 15:00:00,,156.0,,,,,,d_Unhealthy,2
+1237.jpg,Banani,2022-04-02 15:00:00,,156.0,,,,,,d_Unhealthy,2
+1238.jpg,Banani,2022-04-02 15:00:00,,156.0,,,,,,d_Unhealthy,2
+1239.jpg,Banani,2022-04-02 15:00:00,,156.0,,,,,,d_Unhealthy,2
+1240.jpg,Banani,2022-04-02 15:00:00,,156.0,,,,,,d_Unhealthy,2
+1241.jpg,Banani,2022-04-02 15:00:00,,156.0,,,,,,d_Unhealthy,2
+1242.jpg,Banani,2022-04-02 15:00:00,,156.0,,,,,,d_Unhealthy,2
+1243.jpg,Banani,2022-04-02 15:00:00,,156.0,,,,,,d_Unhealthy,2
+1244.jpg,Banani,2022-04-02 15:00:00,,156.0,,,,,,d_Unhealthy,2
+1245.jpg,Banani,2022-04-02 15:00:00,,156.0,,,,,,d_Unhealthy,2
+1246.jpg,Banani,2022-04-02 15:00:00,,156.0,,,,,,d_Unhealthy,2
+1247.jpg,Banani,2022-04-02 15:00:00,,156.0,,,,,,d_Unhealthy,2
+1541.jpg,Banani,2022-09-03 17:00:00,,95.0,,,,,,b_Moderate,2
+1542.jpg,Banani,2022-09-03 17:00:00,,154.0,,,,,,d_Unhealthy,2
+1543.jpg,Banani,2022-09-03 17:00:00,,154.0,,,,,,d_Unhealthy,2
+3.JPG,Mohakhali,2020-09-23 11:00:00,,84.0,,,,,,b_Moderate,2
+1107.jpg,Gulshan - 1,2021-12-01 17:00:00,,186.0,,,,,,d_Unhealthy,2
+1108.jpg,Gulshan - 1,2021-12-01 17:00:00,,186.0,,,,,,d_Unhealthy,2
+21.JPG,Mohakhali,2020-09-27 18:00:00,,118.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+235.jpg,Mohakhali,2020-01-22 15:00:00,,182.0,,,,,,d_Unhealthy,2
+1778.jpg,Banani,2022-09-20 18:00:00,,89.0,,,,,,b_Moderate,2
+1089.jpg,Mohakhali,2021-02-01 16:00:00,,164.0,,,,,,d_Unhealthy,2
+1090.jpg,Mohakhali,2021-02-01 16:00:00,,164.0,,,,,,d_Unhealthy,2
+1091.jpg,Mohakhali,2021-02-01 16:00:00,,164.0,,,,,,d_Unhealthy,2
+1092.jpg,Mohakhali,2021-02-01 16:00:00,,164.0,,,,,,d_Unhealthy,2
+1093.jpg,Mohakhali,2021-02-01 16:00:00,,164.0,,,,,,d_Unhealthy,2
+381.jpg,Mohakhali,2020-11-20 12:00:00,,233.0,,,,,,e_Very_Unhealthy,2
+382.jpg,Mohakhali,2020-11-20 12:00:00,,233.0,,,,,,e_Very_Unhealthy,2
+1248.jpg,Banani,2022-04-09 15:00:00,,121.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1249.jpg,Banani,2022-04-09 15:00:00,,121.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1250.jpg,Banani,2022-04-09 15:00:00,,121.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1251.jpg,Banani,2022-04-09 15:00:00,,121.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+395.jpg,Baridhara J-Block,2020-12-16 14:00:00,,183.0,,,,,,d_Unhealthy,2
+396.jpg,Baridhara J-Block,2020-12-16 14:00:00,,183.0,,,,,,d_Unhealthy,2
+397.jpg,Baridhara J-Block,2020-12-16 14:00:00,,183.0,,,,,,d_Unhealthy,2
+1.JPG,Mohakhali,2020-09-23 10:00:00,,103.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+2.JPG,Mohakhali,2020-09-23 10:00:00,,103.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+336.jpg,Jatrabari,2020-01-11 06:00:00,,33.0,,,,,,a_Good,2
+337.jpg,Jatrabari,2020-01-11 06:00:00,,33.0,,,,,,a_Good,2
+338.jpg,Jatrabari,2020-01-11 06:00:00,,33.0,,,,,,a_Good,2
+339.jpg,Jatrabari,2020-01-11 06:00:00,,33.0,,,,,,a_Good,2
+234.jpg,Rampura,2020-02-09 16:00:00,,76.0,,,,,,b_Moderate,2
+151.jpg,Romna,2020-03-10 15:00:00,,103.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+152.jpg,Romna,2020-03-10 15:00:00,,103.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+13.JPG,Shaheenbagh,2020-09-23 16:00:00,,57.0,,,,,,b_Moderate,2
+122.jpg,Mohammadpur,2020-09-20 17:00:00,,93.0,,,,,,b_Moderate,2
+123.jpg,Mohammadpur,2020-09-20 17:00:00,,93.0,,,,,,b_Moderate,2
+9.JPG,Bijoy Sharoni,2020-09-23 15:00:00,,58.0,,,,,,b_Moderate,2
+1505.jpg,Banani,2022-09-01 15:00:00,,76.0,,,,,,b_Moderate,2
+1506.jpg,Banani,2022-09-01 15:00:00,,72.0,,,,,,b_Moderate,2
+1507.jpg,Banani,2022-09-01 15:00:00,,72.0,,,,,,b_Moderate,2
+228.jpg,Puran Dhaka,2020-04-09 18:00:00,,79.0,,,,,,b_Moderate,2
+556.jpg,Baridhara J-Block,2020-12-22 11:00:00,,266.0,,,,,,f_Severe,2
+557.jpg,Baridhara J-Block,2020-12-22 11:00:00,,266.0,,,,,,f_Severe,2
+558.jpg,Baridhara J-Block,2020-12-22 11:00:00,,266.0,,,,,,f_Severe,2
+559.jpg,Baridhara J-Block,2020-12-22 11:00:00,,266.0,,,,,,f_Severe,2
+560.jpg,Baridhara J-Block,2020-12-22 11:00:00,,266.0,,,,,,f_Severe,2
+561.jpg,Baridhara J-Block,2020-12-22 11:00:00,,266.0,,,,,,f_Severe,2
+562.jpg,Baridhara J-Block,2020-12-22 11:00:00,,266.0,,,,,,f_Severe,2
+563.jpg,Baridhara J-Block,2020-12-22 11:00:00,,266.0,,,,,,f_Severe,2
+564.jpg,Baridhara J-Block,2020-12-22 11:00:00,,266.0,,,,,,f_Severe,2
+565.jpg,Baridhara J-Block,2020-12-22 11:00:00,,266.0,,,,,,f_Severe,2
+566.jpg,Baridhara J-Block,2020-12-22 11:00:00,,266.0,,,,,,f_Severe,2
+567.jpg,Baridhara J-Block,2020-12-22 11:00:00,,266.0,,,,,,f_Severe,2
+568.jpg,Baridhara J-Block,2020-12-22 11:00:00,,266.0,,,,,,f_Severe,2
+569.jpg,Baridhara J-Block,2020-12-22 11:00:00,,266.0,,,,,,f_Severe,2
+1791.jpg,Banani,2022-09-21 16:00:00,,90.0,,,,,,b_Moderate,2
+1792.jpg,Banani,2022-09-21 16:00:00,,90.0,,,,,,b_Moderate,2
+1793.jpg,Banani,2022-09-21 16:00:00,,90.0,,,,,,b_Moderate,2
+118.jpg,Romna,2020-09-23 12:00:00,,73.0,,,,,,b_Moderate,2
+119.jpg,Romna,2020-09-23 12:00:00,,73.0,,,,,,b_Moderate,2
+107.jpg,Romna,2020-08-15 17:00:00,,38.0,,,,,,a_Good,2
+758.jpg,Baridhara J-Block,2020-12-30 17:00:00,,178.0,,,,,,d_Unhealthy,2
+759.jpg,Baridhara J-Block,2020-12-30 17:00:00,,178.0,,,,,,d_Unhealthy,2
+760.jpg,Baridhara J-Block,2020-12-30 17:00:00,,178.0,,,,,,d_Unhealthy,2
+761.jpg,Baridhara J-Block,2020-12-30 17:00:00,,178.0,,,,,,d_Unhealthy,2
+762.jpg,Baridhara J-Block,2020-12-30 17:00:00,,178.0,,,,,,d_Unhealthy,2
+763.jpg,Baridhara J-Block,2020-12-30 17:00:00,,178.0,,,,,,d_Unhealthy,2
+764.jpg,Baridhara J-Block,2020-12-30 17:00:00,,178.0,,,,,,d_Unhealthy,2
+765.jpg,Baridhara J-Block,2020-12-30 17:00:00,,178.0,,,,,,d_Unhealthy,2
+766.jpg,Baridhara J-Block,2020-12-30 17:00:00,,178.0,,,,,,d_Unhealthy,2
+767.jpg,Baridhara J-Block,2020-12-30 17:00:00,,178.0,,,,,,d_Unhealthy,2
+768.jpg,Baridhara J-Block,2020-12-30 17:00:00,,178.0,,,,,,d_Unhealthy,2
+769.jpg,Baridhara J-Block,2020-12-30 17:00:00,,178.0,,,,,,d_Unhealthy,2
+770.jpg,Baridhara J-Block,2020-12-30 17:00:00,,178.0,,,,,,d_Unhealthy,2
+771.jpg,Baridhara J-Block,2020-12-30 17:00:00,,178.0,,,,,,d_Unhealthy,2
+772.jpg,Baridhara J-Block,2020-12-30 17:00:00,,178.0,,,,,,d_Unhealthy,2
+773.jpg,Baridhara J-Block,2020-12-30 17:00:00,,178.0,,,,,,d_Unhealthy,2
+774.jpg,Baridhara J-Block,2020-12-30 17:00:00,,178.0,,,,,,d_Unhealthy,2
+775.jpg,Baridhara J-Block,2020-12-30 17:00:00,,178.0,,,,,,d_Unhealthy,2
+776.jpg,Baridhara J-Block,2020-12-30 17:00:00,,178.0,,,,,,d_Unhealthy,2
+1762.jpg,Banani,2022-09-20 14:00:00,,62.0,,,,,,b_Moderate,2
+1763.jpg,Banani,2022-09-20 14:00:00,,62.0,,,,,,b_Moderate,2
+1764.jpg,Banani,2022-09-20 14:00:00,,62.0,,,,,,b_Moderate,2
+1765.jpg,Banani,2022-09-20 14:00:00,,62.0,,,,,,b_Moderate,2
+1766.jpg,Banani,2022-09-20 14:00:00,,62.0,,,,,,b_Moderate,2
+1767.jpg,Banani,2022-09-20 14:00:00,,66.0,,,,,,b_Moderate,2
+1768.jpg,Banani,2022-09-20 14:00:00,,66.0,,,,,,b_Moderate,2
+1769.jpg,Banani,2022-09-20 14:00:00,,66.0,,,,,,b_Moderate,2
+1770.jpg,Banani,2022-09-20 14:00:00,,66.0,,,,,,b_Moderate,2
+1519.jpg,Banani,2022-09-02 15:00:00,,72.0,,,,,,b_Moderate,2
+1520.jpg,Banani,2022-09-02 15:00:00,,72.0,,,,,,b_Moderate,2
+1521.jpg,Banani,2022-09-02 15:00:00,,74.0,,,,,,b_Moderate,2
+1522.jpg,Banani,2022-09-02 16:00:00,,74.0,,,,,,b_Moderate,2
+1523.jpg,Banani,2022-09-02 16:00:00,,74.0,,,,,,b_Moderate,2
+1524.jpg,Banani,2022-09-02 16:00:00,,74.0,,,,,,b_Moderate,2
+481.jpg,Baridhara J-Block,2020-12-19 16:00:00,,174.0,,,,,,d_Unhealthy,2
+482.jpg,Baridhara J-Block,2020-12-19 16:00:00,,174.0,,,,,,d_Unhealthy,2
+483.jpg,Baridhara J-Block,2020-12-19 16:00:00,,174.0,,,,,,d_Unhealthy,2
+484.jpg,Baridhara J-Block,2020-12-19 16:00:00,,174.0,,,,,,d_Unhealthy,2
+485.jpg,Baridhara J-Block,2020-12-19 16:00:00,,174.0,,,,,,d_Unhealthy,2
+486.jpg,Baridhara J-Block,2020-12-19 16:00:00,,174.0,,,,,,d_Unhealthy,2
+487.jpg,Baridhara J-Block,2020-12-19 16:00:00,,174.0,,,,,,d_Unhealthy,2
+1083.jpg,Mohakhali,2021-01-01 16:00:00,,162.0,,,,,,d_Unhealthy,2
+1084.jpg,Mohakhali,2021-01-01 16:00:00,,162.0,,,,,,d_Unhealthy,2
+1085.jpg,Mohakhali,2021-01-01 16:00:00,,162.0,,,,,,d_Unhealthy,2
+1086.jpg,Mohakhali,2021-01-01 16:00:00,,162.0,,,,,,d_Unhealthy,2
+1087.jpg,Mohakhali,2021-01-01 16:00:00,,162.0,,,,,,d_Unhealthy,2
+1088.jpg,Mohakhali,2021-01-01 16:00:00,,162.0,,,,,,d_Unhealthy,2
+474.jpg,Baridhara J-Block,2020-12-19 14:00:00,,175.0,,,,,,d_Unhealthy,2
+475.jpg,Baridhara J-Block,2020-12-19 14:00:00,,175.0,,,,,,d_Unhealthy,2
+476.jpg,Baridhara J-Block,2020-12-19 14:00:00,,175.0,,,,,,d_Unhealthy,2
+477.jpg,Baridhara J-Block,2020-12-19 14:00:00,,175.0,,,,,,d_Unhealthy,2
+478.jpg,Baridhara J-Block,2020-12-19 14:00:00,,175.0,,,,,,d_Unhealthy,2
+479.jpg,Baridhara J-Block,2020-12-19 14:00:00,,175.0,,,,,,d_Unhealthy,2
+480.jpg,Baridhara J-Block,2020-12-19 14:00:00,,175.0,,,,,,d_Unhealthy,2
+128.jpg,Mirpur 14,2020-09-17 18:00:00,,158.0,,,,,,d_Unhealthy,2
+1573.jpg,Banani,2022-09-05 16:00:00,,95.0,,,,,,b_Moderate,2
+1574.jpg,Banani,2022-09-05 16:00:00,,95.0,,,,,,b_Moderate,2
+1575.jpg,Banani,2022-09-05 16:00:00,,95.0,,,,,,b_Moderate,2
+1576.jpg,Banani,2022-09-05 16:00:00,,91.0,,,,,,b_Moderate,2
+1577.jpg,Banani,2022-09-05 16:00:00,,91.0,,,,,,b_Moderate,2
+1578.jpg,Banani,2022-09-05 16:00:00,,91.0,,,,,,b_Moderate,2
+1817.jpg,Banani,2022-09-22 17:00:00,,101.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1818.jpg,Banani,2022-09-22 17:00:00,,101.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1819.jpg,Banani,2022-09-22 17:00:00,,101.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1820.jpg,Banani,2022-09-22 17:00:00,,96.0,,,,,,b_Moderate,2
+1821.jpg,Banani,2022-09-22 17:00:00,,96.0,,,,,,b_Moderate,2
+274.jpg,Baridhara J-Block,2020-02-10 14:00:00,,92.0,,,,,,b_Moderate,2
+275.jpg,Baridhara J-Block,2020-02-10 14:00:00,,92.0,,,,,,b_Moderate,2
+276.jpg,Baridhara J-Block,2020-02-10 14:00:00,,92.0,,,,,,b_Moderate,2
+277.jpg,Baridhara J-Block,2020-02-10 14:00:00,,92.0,,,,,,b_Moderate,2
+424.jpg,Baridhara J-Block,2020-12-14 13:00:00,,190.0,,,,,,e_Very_Unhealthy,2
+425.jpg,Baridhara J-Block,2020-12-14 13:00:00,,190.0,,,,,,e_Very_Unhealthy,2
+426.jpg,Baridhara J-Block,2020-12-14 13:00:00,,190.0,,,,,,e_Very_Unhealthy,2
+131.jpg,Mirpur 17,2020-09-21 17:00:00,,65.0,,,,,,b_Moderate,2
+109.jpg,Romna,2020-07-08 18:00:00,,80.0,,,,,,b_Moderate,2
+1727.jpg,Banani,2022-09-18 14:00:00,,160.0,,,,,,d_Unhealthy,2
+1728.jpg,Banani,2022-09-18 14:00:00,,160.0,,,,,,d_Unhealthy,2
+1729.jpg,Banani,2022-09-18 14:00:00,,159.0,,,,,,d_Unhealthy,2
+1730.jpg,Banani,2022-09-18 14:00:00,,159.0,,,,,,d_Unhealthy,2
+1731.jpg,Banani,2022-09-18 14:00:00,,159.0,,,,,,d_Unhealthy,2
+1732.jpg,Banani,2022-09-18 14:00:00,,159.0,,,,,,d_Unhealthy,2
+1733.jpg,Banani,2022-09-18 14:00:00,,159.0,,,,,,d_Unhealthy,2
+1734.jpg,Banani,2022-09-18 14:00:00,,159.0,,,,,,d_Unhealthy,2
+507.jpg,Baridhara J-Block,2020-12-20 15:00:00,,193.0,,,,,,d_Unhealthy,2
+508.jpg,Baridhara J-Block,2020-12-20 15:00:00,,193.0,,,,,,d_Unhealthy,2
+509.jpg,Baridhara J-Block,2020-12-20 15:00:00,,193.0,,,,,,d_Unhealthy,2
+510.jpg,Baridhara J-Block,2020-12-20 15:00:00,,193.0,,,,,,d_Unhealthy,2
+511.jpg,Baridhara J-Block,2020-12-20 15:00:00,,193.0,,,,,,d_Unhealthy,2
+512.jpg,Baridhara J-Block,2020-12-20 15:00:00,,193.0,,,,,,d_Unhealthy,2
+513.jpg,Baridhara J-Block,2020-12-20 15:00:00,,193.0,,,,,,d_Unhealthy,2
+515.jpg,Baridhara J-Block,2020-12-20 15:00:00,,193.0,,,,,,d_Unhealthy,2
+516.jpg,Baridhara J-Block,2020-12-20 15:00:00,,193.0,,,,,,d_Unhealthy,2
+517.jpg,Baridhara J-Block,2020-12-20 15:00:00,,193.0,,,,,,d_Unhealthy,2
+518.jpg,Baridhara J-Block,2020-12-20 15:00:00,,193.0,,,,,,d_Unhealthy,2
+519.jpg,Baridhara J-Block,2020-12-20 15:00:00,,193.0,,,,,,d_Unhealthy,2
+520.jpg,Baridhara J-Block,2020-12-20 15:00:00,,193.0,,,,,,d_Unhealthy,2
+521.jpg,Baridhara J-Block,2020-12-20 15:00:00,,193.0,,,,,,d_Unhealthy,2
+40.JPG,"Masjid-e-Gausul Azam, Mohakhali",2020-06-10 17:00:00,,81.0,,,,,,b_Moderate,2
+41.JPG,"Masjid-e-Gausul Azam, Mohakhali",2020-06-10 17:00:00,,81.0,,,,,,b_Moderate,2
+42.JPG,"Masjid-e-Gausul Azam, Mohakhali",2020-06-10 17:00:00,,81.0,,,,,,b_Moderate,2
+90.JPG,Dhaka University,2020-10-13 06:00:00,,147.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1292.jpg,Banani,2022-04-28 17:00:00,,165.0,,,,,,d_Unhealthy,2
+1293.jpg,Banani,2022-04-28 17:00:00,,166.0,,,,,,d_Unhealthy,2
+1294.jpg,Banani,2022-04-28 17:00:00,,166.0,,,,,,d_Unhealthy,2
+52.JPG,Shaheenbagh,2020-07-07 18:00:00,,75.0,,,,,,b_Moderate,2
+1341.jpg,Banani,2022-07-13 15:00:00,,76.0,,,,,,b_Moderate,2
+1342.jpg,Banani,2022-07-13 15:00:00,,76.0,,,,,,b_Moderate,2
+1343.jpg,Banani,2022-07-13 15:00:00,,76.0,,,,,,b_Moderate,2
+1344.jpg,Banani,2022-07-13 15:00:00,,80.0,,,,,,b_Moderate,2
+1345.jpg,Banani,2022-07-13 15:00:00,,80.0,,,,,,b_Moderate,2
+1346.jpg,Banani,2022-07-13 15:00:00,,80.0,,,,,,b_Moderate,2
+1609.jpg,Banani,2022-09-08 16:00:00,,136.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1610.jpg,Banani,2022-09-08 16:00:00,,136.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1611.jpg,Banani,2022-09-08 16:00:00,,136.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1612.jpg,Banani,2022-09-08 16:00:00,,148.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1613.jpg,Banani,2022-09-08 16:00:00,,148.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1614.jpg,Banani,2022-09-08 16:00:00,,148.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1304.jpg,Banani,2022-04-29 15:00:00,,162.0,,,,,,d_Unhealthy,2
+1305.jpg,Banani,2022-04-29 15:00:00,,162.0,,,,,,d_Unhealthy,2
+1306.jpg,Banani,2022-04-29 15:00:00,,161.0,,,,,,d_Unhealthy,2
+1307.jpg,Banani,2022-04-29 15:00:00,,161.0,,,,,,d_Unhealthy,2
+1314.jpg,Banani,2022-04-30 14:00:00,,140.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1315.jpg,Banani,2022-04-30 14:00:00,,150.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1149.jpg,Gulshan - 1,2021-01-21 16:00:00,,216.0,,,,,,e_Very_Unhealthy,2
+1150.jpg,Gulshan - 1,2021-01-21 16:00:00,,216.0,,,,,,e_Very_Unhealthy,2
+1151.jpg,Gulshan - 1,2021-01-21 16:00:00,,216.0,,,,,,e_Very_Unhealthy,2
+1485.jpg,Banani,2022-08-07 15:00:00,,77.0,,,,,,b_Moderate,2
+1486.jpg,Banani,2022-08-07 15:00:00,,77.0,,,,,,b_Moderate,2
+1487.jpg,Banani,2022-08-07 15:00:00,,77.0,,,,,,b_Moderate,2
+1488.jpg,Banani,2022-08-07 15:00:00,,80.0,,,,,,b_Moderate,2
+522.jpg,Baridhara J-Block,2020-12-20 16:00:00,,196.0,,,,,,d_Unhealthy,2
+523.jpg,Baridhara J-Block,2020-12-20 16:00:00,,196.0,,,,,,d_Unhealthy,2
+524.jpg,Baridhara J-Block,2020-12-20 16:00:00,,196.0,,,,,,d_Unhealthy,2
+525.jpg,Baridhara J-Block,2020-12-20 16:00:00,,196.0,,,,,,d_Unhealthy,2
+526.jpg,Baridhara J-Block,2020-12-20 16:00:00,,196.0,,,,,,d_Unhealthy,2
+527.jpg,Baridhara J-Block,2020-12-20 16:00:00,,196.0,,,,,,d_Unhealthy,2
+528.jpg,Baridhara J-Block,2020-12-20 16:00:00,,196.0,,,,,,d_Unhealthy,2
+529.jpg,Baridhara J-Block,2020-12-20 16:00:00,,196.0,,,,,,d_Unhealthy,2
+530.jpg,Baridhara J-Block,2020-12-20 16:00:00,,196.0,,,,,,d_Unhealthy,2
+531.jpg,Baridhara J-Block,2020-12-20 16:00:00,,196.0,,,,,,d_Unhealthy,2
+398.jpg,Baridhara J-Block,2020-02-12 13:00:00,,165.0,,,,,,d_Unhealthy,2
+399.jpg,Baridhara J-Block,2020-02-12 13:00:00,,165.0,,,,,,d_Unhealthy,2
+400.jpg,Baridhara J-Block,2020-02-12 13:00:00,,165.0,,,,,,d_Unhealthy,2
+106.jpg,Romna,2020-08-15 18:00:00,,38.0,,,,,,a_Good,2
+239.jpg,Khilgaon Taltola,2020-04-18 18:00:00,,87.0,,,,,,b_Moderate,2
+43.JPG,Mohakhali,2020-07-10 11:00:00,,154.0,,,,,,d_Unhealthy,2
+1669.jpg,Banani,2022-09-13 15:00:00,,100.0,,,,,,b_Moderate,2
+1670.jpg,Banani,2022-09-13 15:00:00,,100.0,,,,,,b_Moderate,2
+1671.jpg,Banani,2022-09-13 15:00:00,,100.0,,,,,,b_Moderate,2
+1672.jpg,Banani,2022-09-13 15:00:00,,100.0,,,,,,b_Moderate,2
+1673.jpg,Banani,2022-09-13 15:00:00,,136.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1674.jpg,Banani,2022-09-13 15:00:00,,136.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1675.jpg,Banani,2022-09-13 15:00:00,,136.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1137.jpg,Jatrabari,2021-01-21 09:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1138.jpg,Jatrabari,2021-01-21 09:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1139.jpg,Jatrabari,2021-01-21 09:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1140.jpg,Jatrabari,2021-01-21 09:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1141.jpg,Jatrabari,2021-01-21 09:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1142.jpg,Jatrabari,2021-01-21 09:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1143.jpg,Jatrabari,2021-01-21 09:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1144.jpg,Jatrabari,2021-01-21 09:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1145.jpg,Jatrabari,2021-01-21 09:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1146.jpg,Jatrabari,2021-01-21 09:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1147.jpg,Jatrabari,2021-01-21 09:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1148.jpg,Jatrabari,2021-01-21 09:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1682.jpg,Banani,2022-09-14 16:00:00,,88.0,,,,,,b_Moderate,2
+1683.jpg,Banani,2022-09-14 16:00:00,,88.0,,,,,,b_Moderate,2
+1684.jpg,Banani,2022-09-14 16:00:00,,88.0,,,,,,b_Moderate,2
+1685.jpg,Banani,2022-09-14 16:00:00,,86.0,,,,,,b_Moderate,2
+1686.jpg,Banani,2022-09-14 16:00:00,,86.0,,,,,,b_Moderate,2
+937.jpg,Baridhara J-Block,2021-02-01 15:00:00,,170.0,,,,,,d_Unhealthy,2
+938.jpg,Baridhara J-Block,2021-02-01 15:00:00,,170.0,,,,,,d_Unhealthy,2
+939.jpg,Baridhara J-Block,2021-02-01 15:00:00,,170.0,,,,,,d_Unhealthy,2
+940.jpg,Baridhara J-Block,2021-02-01 15:00:00,,170.0,,,,,,d_Unhealthy,2
+941.jpg,Baridhara J-Block,2021-02-01 15:00:00,,170.0,,,,,,d_Unhealthy,2
+942.jpg,Baridhara J-Block,2021-02-01 15:00:00,,170.0,,,,,,d_Unhealthy,2
+943.jpg,Baridhara J-Block,2021-02-01 15:00:00,,170.0,,,,,,d_Unhealthy,2
+944.jpg,Baridhara J-Block,2021-02-01 15:00:00,,170.0,,,,,,d_Unhealthy,2
+945.jpg,Baridhara J-Block,2021-02-01 15:00:00,,170.0,,,,,,d_Unhealthy,2
+946.jpg,Baridhara J-Block,2021-02-01 15:00:00,,170.0,,,,,,d_Unhealthy,2
+947.jpg,Baridhara J-Block,2021-02-01 15:00:00,,170.0,,,,,,d_Unhealthy,2
+948.jpg,Baridhara J-Block,2021-02-01 15:00:00,,170.0,,,,,,d_Unhealthy,2
+949.jpg,Baridhara J-Block,2021-02-01 15:00:00,,170.0,,,,,,d_Unhealthy,2
+950.jpg,Baridhara J-Block,2021-02-01 15:00:00,,170.0,,,,,,d_Unhealthy,2
+951.jpg,Baridhara J-Block,2021-02-01 15:00:00,,170.0,,,,,,d_Unhealthy,2
+952.jpg,Baridhara J-Block,2021-02-01 15:00:00,,170.0,,,,,,d_Unhealthy,2
+953.jpg,Baridhara J-Block,2021-02-01 15:00:00,,170.0,,,,,,d_Unhealthy,2
+954.jpg,Baridhara J-Block,2021-02-01 15:00:00,,170.0,,,,,,d_Unhealthy,2
+175.jpg,Mirpur 1,2020-08-10 13:00:00,,88.0,,,,,,b_Moderate,2
+176.jpg,Mirpur 1,2020-08-10 13:00:00,,88.0,,,,,,b_Moderate,2
+177.jpg,Mirpur 1,2020-08-10 13:00:00,,88.0,,,,,,b_Moderate,2
+178.jpg,Mirpur 1,2020-08-10 13:00:00,,88.0,,,,,,b_Moderate,2
+1336.jpg,Banani,2022-07-12 15:00:00,,80.0,,,,,,b_Moderate,2
+385.jpg,Mohakhali,2020-11-21 16:00:00,,210.0,,,,,,e_Very_Unhealthy,2
+386.jpg,Mohakhali,2020-11-21 16:00:00,,210.0,,,,,,e_Very_Unhealthy,2
+156.jpg,Romna,2020-06-10 13:00:00,,78.0,,,,,,b_Moderate,2
+157.jpg,Romna,2020-06-10 13:00:00,,78.0,,,,,,b_Moderate,2
+1657.jpg,Banani,2022-09-12 13:00:00,,76.0,,,,,,b_Moderate,2
+1847.jpg,Banani,2022-09-27 15:00:00,,156.0,,,,,,d_Unhealthy,2
+1848.jpg,Banani,2022-09-27 15:00:00,,156.0,,,,,,d_Unhealthy,2
+1849.jpg,Banani,2022-09-27 15:00:00,,156.0,,,,,,d_Unhealthy,2
+1850.jpg,Banani,2022-09-27 15:00:00,,156.0,,,,,,d_Unhealthy,2
+1851.jpg,Banani,2022-09-27 15:00:00,,156.0,,,,,,d_Unhealthy,2
+1852.jpg,Banani,2022-09-27 15:00:00,,158.0,,,,,,d_Unhealthy,2
+1853.jpg,Banani,2022-09-27 15:00:00,,158.0,,,,,,d_Unhealthy,2
+1854.jpg,Banani,2022-09-27 15:00:00,,158.0,,,,,,d_Unhealthy,2
+1855.jpg,Banani,2022-09-27 15:00:00,,158.0,,,,,,d_Unhealthy,2
+1856.jpg,Banani,2022-09-27 15:00:00,,158.0,,,,,,d_Unhealthy,2
+1680.jpg,Banani,2022-09-14 13:00:00,,112.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+859.jpg,Baridhara J-Block,2021-01-01 13:00:00,,178.0,,,,,,d_Unhealthy,2
+860.jpg,Baridhara J-Block,2021-01-01 13:00:00,,178.0,,,,,,d_Unhealthy,2
+861.jpg,Baridhara J-Block,2021-01-01 13:00:00,,178.0,,,,,,d_Unhealthy,2
+862.jpg,Baridhara J-Block,2021-01-01 13:00:00,,178.0,,,,,,d_Unhealthy,2
+863.jpg,Baridhara J-Block,2021-01-01 13:00:00,,178.0,,,,,,d_Unhealthy,2
+864.jpg,Baridhara J-Block,2021-01-01 13:00:00,,178.0,,,,,,d_Unhealthy,2
+865.jpg,Baridhara J-Block,2021-01-01 13:00:00,,178.0,,,,,,d_Unhealthy,2
+866.jpg,Baridhara J-Block,2021-01-01 13:00:00,,178.0,,,,,,d_Unhealthy,2
+867.jpg,Baridhara J-Block,2021-01-01 13:00:00,,178.0,,,,,,d_Unhealthy,2
+868.jpg,Baridhara J-Block,2021-01-01 13:00:00,,178.0,,,,,,d_Unhealthy,2
+869.jpg,Baridhara J-Block,2021-01-01 13:00:00,,178.0,,,,,,d_Unhealthy,2
+870.jpg,Baridhara J-Block,2021-01-01 13:00:00,,178.0,,,,,,d_Unhealthy,2
+871.jpg,Baridhara J-Block,2021-01-01 13:00:00,,178.0,,,,,,d_Unhealthy,2
+872.jpg,Baridhara J-Block,2021-01-01 13:00:00,,178.0,,,,,,d_Unhealthy,2
+873.jpg,Baridhara J-Block,2021-01-01 13:00:00,,178.0,,,,,,d_Unhealthy,2
+874.jpg,Baridhara J-Block,2021-01-01 13:00:00,,178.0,,,,,,d_Unhealthy,2
+875.jpg,Baridhara J-Block,2021-01-01 13:00:00,,178.0,,,,,,d_Unhealthy,2
+876.jpg,Baridhara J-Block,2021-01-01 13:00:00,,178.0,,,,,,d_Unhealthy,2
+877.jpg,Baridhara J-Block,2021-01-01 13:00:00,,178.0,,,,,,d_Unhealthy,2
+878.jpg,Baridhara J-Block,2021-01-01 13:00:00,,178.0,,,,,,d_Unhealthy,2
+879.jpg,Baridhara J-Block,2021-01-01 13:00:00,,178.0,,,,,,d_Unhealthy,2
+880.jpg,Baridhara J-Block,2021-01-01 13:00:00,,178.0,,,,,,d_Unhealthy,2
+881.jpg,Baridhara J-Block,2021-01-01 13:00:00,,178.0,,,,,,d_Unhealthy,2
+882.jpg,Baridhara J-Block,2021-01-01 13:00:00,,178.0,,,,,,d_Unhealthy,2
+883.jpg,Baridhara J-Block,2021-01-01 13:00:00,,178.0,,,,,,d_Unhealthy,2
+884.jpg,Baridhara J-Block,2021-01-01 13:00:00,,178.0,,,,,,d_Unhealthy,2
+134.jpg,Siddheshwari,2020-09-26 16:00:00,,89.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+135.jpg,Siddheshwari,2020-09-26 16:00:00,,89.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+136.jpg,Siddheshwari,2020-09-26 16:00:00,,89.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+170.jpg,Mirpur 1,2020-09-30 13:00:00,,87.0,,,,,,b_Moderate,2
+171.jpg,Mirpur 1,2020-09-30 13:00:00,,87.0,,,,,,b_Moderate,2
+172.jpg,Mirpur 1,2020-09-30 13:00:00,,87.0,,,,,,b_Moderate,2
+173.jpg,Mirpur 1,2020-09-30 13:00:00,,87.0,,,,,,b_Moderate,2
+174.jpg,Mirpur 1,2020-09-30 13:00:00,,87.0,,,,,,b_Moderate,2
+237.jpg,"Banasree, F-block",2020-01-09 17:00:00,,87.0,,,,,,b_Moderate,2
+1838.jpg,Banani,2022-09-24 18:00:00,,136.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1839.jpg,Banani,2022-09-24 18:00:00,,136.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1840.jpg,Banani,2022-09-24 18:00:00,,136.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1841.jpg,Banani,2022-09-24 18:00:00,,136.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1842.jpg,Banani,2022-09-24 18:00:00,,136.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1740.jpg,Banani,2022-09-18 16:00:00,,159.0,,,,,,d_Unhealthy,2
+1741.jpg,Banani,2022-09-18 16:00:00,,159.0,,,,,,d_Unhealthy,2
+1585.jpg,Banani,2022-09-06 14:00:00,,134.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1586.jpg,Banani,2022-09-06 14:00:00,,134.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1587.jpg,Banani,2022-09-06 14:00:00,,134.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1588.jpg,Banani,2022-09-06 14:00:00,,134.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1589.jpg,Banani,2022-09-06 14:00:00,,102.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1590.jpg,Banani,2022-09-06 14:00:00,,102.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1591.jpg,Banani,2022-09-06 14:00:00,,102.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1479.jpg,Banani,2022-08-07 14:00:00,,86.0,,,,,,b_Moderate,2
+1480.jpg,Banani,2022-08-07 14:00:00,,86.0,,,,,,b_Moderate,2
+1481.jpg,Banani,2022-08-07 14:00:00,,86.0,,,,,,b_Moderate,2
+1482.jpg,Banani,2022-08-07 14:00:00,,77.0,,,,,,b_Moderate,2
+1483.jpg,Banani,2022-08-07 14:00:00,,77.0,,,,,,b_Moderate,2
+1484.jpg,Banani,2022-08-07 14:00:00,,77.0,,,,,,b_Moderate,2
+206.jpg,"Birulia bridge,ashulia",2020-08-21 17:00:00,,66.0,,,,,,b_Moderate,2
+1688.jpg,Banani,2022-09-15 15:00:00,,82.0,,,,,,b_Moderate,2
+1689.jpg,Banani,2022-09-15 15:00:00,,82.0,,,,,,b_Moderate,2
+1690.jpg,Banani,2022-09-15 15:00:00,,82.0,,,,,,b_Moderate,2
+1691.jpg,Banani,2022-09-15 15:00:00,,80.0,,,,,,b_Moderate,2
+1692.jpg,Banani,2022-09-15 15:00:00,,80.0,,,,,,b_Moderate,2
+1693.jpg,Banani,2022-09-15 15:00:00,,80.0,,,,,,b_Moderate,2
+246.jpg,Baridhara J-Block,2020-08-26 05:00:00,,33.0,,,,,,a_Good,2
+334.jpg,Mogbazar,2020-01-11 06:00:00,,33.0,,,,,,a_Good,2
+335.jpg,Mogbazar,2020-01-11 06:00:00,,33.0,,,,,,a_Good,2
+1155.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1156.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1157.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1158.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1159.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1160.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1161.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1162.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1163.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1164.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1165.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1166.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1167.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1168.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1169.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1170.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1171.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1172.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1173.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1174.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1175.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1176.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1177.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1178.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1179.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1180.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1181.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1182.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1183.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1184.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1185.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1186.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1187.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1188.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1189.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1190.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1191.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1192.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1193.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1194.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1195.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1196.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1197.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1198.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1199.jpg,Uttara,2022-03-26 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+82.JPG,Mohakhali,2020-12-10 13:00:00,,104.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+215.jpg,Mirpur,2020-01-08 05:00:00,,48.0,,,,,,b_Moderate,2
+1812.jpg,Banani,2022-09-22 16:00:00,,120.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1813.jpg,Banani,2022-09-22 16:00:00,,120.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1814.jpg,Banani,2022-09-22 16:00:00,,101.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1815.jpg,Banani,2022-09-22 16:00:00,,101.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1816.jpg,Banani,2022-09-22 16:00:00,,101.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+278.jpg,Baridhara J-Block,2020-05-10 13:00:00,,124.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+279.jpg,Baridhara J-Block,2020-05-10 13:00:00,,124.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+280.jpg,Baridhara J-Block,2020-05-10 13:00:00,,124.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+281.jpg,Baridhara J-Block,2020-05-10 13:00:00,,124.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+5.JPG,Mohammadpur,2020-09-23 14:00:00,,58.0,,,,,,b_Moderate,2
+1718.jpg,Banani,2022-09-16 15:00:00,,97.0,,,,,,b_Moderate,2
+1719.jpg,Banani,2022-09-16 15:00:00,,97.0,,,,,,b_Moderate,2
+1720.jpg,Banani,2022-09-16 15:00:00,,100.0,,,,,,b_Moderate,2
+1721.jpg,Banani,2022-09-16 15:00:00,,100.0,,,,,,b_Moderate,2
+1722.jpg,Banani,2022-09-16 15:00:00,,100.0,,,,,,b_Moderate,2
+224.jpg,Mirpur,2019-11-01 16:00:00,,179.0,,,,,,d_Unhealthy,2
+1771.jpg,Banani,2022-09-20 15:00:00,,65.0,,,,,,b_Moderate,2
+1772.jpg,Banani,2022-09-20 15:00:00,,65.0,,,,,,b_Moderate,2
+365.jpg,Shaheenbagh,2020-11-16 16:00:00,,156.0,,,,,,d_Unhealthy,2
+366.jpg,Shaheenbagh,2020-11-16 16:00:00,,156.0,,,,,,d_Unhealthy,2
+367.jpg,Shaheenbagh,2020-11-16 16:00:00,,156.0,,,,,,d_Unhealthy,2
+1676.jpg,Banani,2022-09-13 16:00:00,,136.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1677.jpg,Banani,2022-09-13 16:00:00,,86.0,,,,,,b_Moderate,2
+1678.jpg,Banani,2022-09-13 16:00:00,,86.0,,,,,,b_Moderate,2
+1679.jpg,Banani,2022-09-13 16:00:00,,86.0,,,,,,b_Moderate,2
+1579.jpg,Banani,2022-09-06 13:00:00,,137.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1580.jpg,Banani,2022-09-06 13:00:00,,137.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1581.jpg,Banani,2022-09-06 13:00:00,,137.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1582.jpg,Banani,2022-09-06 13:00:00,,134.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1583.jpg,Banani,2022-09-06 13:00:00,,134.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1584.jpg,Banani,2022-09-06 13:00:00,,134.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1450.jpg,Banani,2022-08-05 16:00:00,,81.0,,,,,,b_Moderate,2
+1451.jpg,Banani,2022-08-05 16:00:00,,81.0,,,,,,b_Moderate,2
+1452.jpg,Banani,2022-08-05 16:00:00,,81.0,,,,,,b_Moderate,2
+1453.jpg,Banani,2022-08-05 16:00:00,,84.0,,,,,,b_Moderate,2
+1592.jpg,Banani,2022-09-06 15:00:00,,102.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1593.jpg,Banani,2022-09-06 15:00:00,,102.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1594.jpg,Banani,2022-09-06 15:00:00,,102.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1595.jpg,Banani,2022-09-06 15:00:00,,95.0,,,,,,b_Moderate,2
+1596.jpg,Banani,2022-09-06 15:00:00,,95.0,,,,,,b_Moderate,2
+63.JPG,"Road-3, Dhanmondi",2020-10-10 13:00:00,,144.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+64.JPG,"Road-3, Dhanmondi",2020-10-10 13:00:00,,144.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+65.JPG,"Road-3, Dhanmondi",2020-10-10 13:00:00,,144.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+66.JPG,"Road-3, Dhanmondi",2020-10-10 13:00:00,,144.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+67.JPG,"Road-3, Dhanmondi",2020-10-10 13:00:00,,144.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+68.JPG,"Road-3, Dhanmondi",2020-10-10 13:00:00,,144.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+69.JPG,"Road-3, Dhanmondi",2020-10-10 13:00:00,,144.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+72.JPG,"Road-3, Dhanmondi",2020-10-10 13:00:00,,144.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+73.JPG,"Road-3, Dhanmondi",2020-10-10 13:00:00,,144.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+74.JPG,"Road-3, Dhanmondi",2020-10-10 13:00:00,,144.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1439.jpg,Banani,2022-08-05 13:00:00,,89.0,,,,,,b_Moderate,2
+1440.jpg,Banani,2022-08-05 13:00:00,,89.0,,,,,,b_Moderate,2
+1441.jpg,Banani,2022-08-05 13:00:00,,89.0,,,,,,b_Moderate,2
+1442.jpg,Banani,2022-08-05 13:00:00,,85.0,,,,,,b_Moderate,2
+1443.jpg,Banani,2022-08-05 13:00:00,,85.0,,,,,,b_Moderate,2
+1444.jpg,Banani,2022-08-05 13:00:00,,85.0,,,,,,b_Moderate,2
+202.jpg,"BRACU CAMPUS,MOHAKHALI",2019-01-12 14:00:00,,164.0,,,,,,d_Unhealthy,2
+129.jpg,Mirpur 15,2020-09-18 13:00:00,,70.0,,,,,,b_Moderate,2
+1544.jpg,Banani,2022-09-03 18:00:00,,154.0,,,,,,d_Unhealthy,2
+648.jpg,Baridhara J-Block,2020-12-26 10:00:00,,232.0,,,,,,e_Very_Unhealthy,2
+649.jpg,Baridhara J-Block,2020-12-26 10:00:00,,232.0,,,,,,e_Very_Unhealthy,2
+650.jpg,Baridhara J-Block,2020-12-26 10:00:00,,232.0,,,,,,e_Very_Unhealthy,2
+651.jpg,Baridhara J-Block,2020-12-26 10:00:00,,232.0,,,,,,e_Very_Unhealthy,2
+652.jpg,Baridhara J-Block,2020-12-26 10:00:00,,232.0,,,,,,e_Very_Unhealthy,2
+653.jpg,Baridhara J-Block,2020-12-26 10:00:00,,232.0,,,,,,e_Very_Unhealthy,2
+654.jpg,Baridhara J-Block,2020-12-26 10:00:00,,232.0,,,,,,e_Very_Unhealthy,2
+655.jpg,Baridhara J-Block,2020-12-26 10:00:00,,232.0,,,,,,e_Very_Unhealthy,2
+656.jpg,Baridhara J-Block,2020-12-26 10:00:00,,232.0,,,,,,e_Very_Unhealthy,2
+657.jpg,Baridhara J-Block,2020-12-26 10:00:00,,232.0,,,,,,e_Very_Unhealthy,2
+658.jpg,Baridhara J-Block,2020-12-26 10:00:00,,232.0,,,,,,e_Very_Unhealthy,2
+659.jpg,Baridhara J-Block,2020-12-26 10:00:00,,232.0,,,,,,e_Very_Unhealthy,2
+660.jpg,Baridhara J-Block,2020-12-26 10:00:00,,232.0,,,,,,e_Very_Unhealthy,2
+661.jpg,Baridhara J-Block,2020-12-26 10:00:00,,232.0,,,,,,e_Very_Unhealthy,2
+662.jpg,Baridhara J-Block,2020-12-26 10:00:00,,232.0,,,,,,e_Very_Unhealthy,2
+663.jpg,Baridhara J-Block,2020-12-26 10:00:00,,232.0,,,,,,e_Very_Unhealthy,2
+664.jpg,Baridhara J-Block,2020-12-26 10:00:00,,232.0,,,,,,e_Very_Unhealthy,2
+665.jpg,Baridhara J-Block,2020-12-26 10:00:00,,232.0,,,,,,e_Very_Unhealthy,2
+666.jpg,Baridhara J-Block,2020-12-26 10:00:00,,232.0,,,,,,e_Very_Unhealthy,2
+465.jpg,Baridhara J-Block,2020-12-18 14:00:00,,168.0,,,,,,d_Unhealthy,2
+466.jpg,Baridhara J-Block,2020-12-18 14:00:00,,168.0,,,,,,d_Unhealthy,2
+467.jpg,Baridhara J-Block,2020-12-18 14:00:00,,168.0,,,,,,d_Unhealthy,2
+1779.jpg,Banani,2022-09-21 13:00:00,,97.0,,,,,,b_Moderate,2
+95.jpg,Jigatola,2020-09-18 17:00:00,,70.0,,,,,,b_Moderate,2
+96.jpg,Jigatola,2020-09-18 17:00:00,,70.0,,,,,,b_Moderate,2
+1287.jpg,Banani,2022-04-28 16:00:00,,166.0,,,,,,d_Unhealthy,2
+1288.jpg,Banani,2022-04-28 16:00:00,,166.0,,,,,,d_Unhealthy,2
+1289.jpg,Banani,2022-04-28 16:00:00,,165.0,,,,,,d_Unhealthy,2
+1290.jpg,Banani,2022-04-28 16:00:00,,165.0,,,,,,d_Unhealthy,2
+1291.jpg,Banani,2022-04-28 16:00:00,,165.0,,,,,,d_Unhealthy,2
+1472.jpg,Mohakhali ,2022-08-06 16:00:00,,64.0,,,,,,b_Moderate,2
+1473.jpg,Mohakhali ,2022-08-06 16:00:00,,64.0,,,,,,b_Moderate,2
+1474.jpg,Mohakhali ,2022-08-06 16:00:00,,64.0,,,,,,b_Moderate,2
+1475.jpg,Mohakhali ,2022-08-06 16:00:00,,64.0,,,,,,b_Moderate,2
+1476.jpg,Mohakhali ,2022-08-06 16:00:00,,72.0,,,,,,b_Moderate,2
+1477.jpg,Mohakhali ,2022-08-06 16:00:00,,72.0,,,,,,b_Moderate,2
+1478.jpg,Mohakhali ,2022-08-06 16:00:00,,72.0,,,,,,b_Moderate,2
+101.jpg,Uttara,2020-09-20 16:00:00,,145.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+350.jpg,Mohakhali,2020-12-11 16:00:00,,108.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+351.jpg,Mohakhali,2020-12-11 16:00:00,,108.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+352.jpg,Mohakhali,2020-12-11 16:00:00,,108.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+353.jpg,Mohakhali,2020-12-11 16:00:00,,108.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1069.jpg,Jatrabari,2020-12-20 10:00:00,,275.0,,,,,,e_Very_Unhealthy,2
+1070.jpg,Jatrabari,2020-12-20 10:00:00,,275.0,,,,,,e_Very_Unhealthy,2
+1071.jpg,Jatrabari,2020-12-20 10:00:00,,275.0,,,,,,e_Very_Unhealthy,2
+1072.jpg,Jatrabari,2020-12-20 10:00:00,,275.0,,,,,,e_Very_Unhealthy,2
+1073.jpg,Jatrabari,2020-12-20 10:00:00,,275.0,,,,,,e_Very_Unhealthy,2
+1074.jpg,Jatrabari,2020-12-20 10:00:00,,275.0,,,,,,e_Very_Unhealthy,2
+1075.jpg,Jatrabari,2020-12-20 10:00:00,,275.0,,,,,,e_Very_Unhealthy,2
+84.JPG,Jatrabari,2020-10-13 06:00:00,,147.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+85.JPG,Jatrabari,2020-10-13 06:00:00,,147.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+86.JPG,Jatrabari,2020-10-13 06:00:00,,147.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+87.JPG,Jatrabari,2020-10-13 06:00:00,,147.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+88.JPG,Jatrabari,2020-10-13 06:00:00,,147.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+89.JPG,Jatrabari,2020-10-13 06:00:00,,147.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+91.JPG,Jatrabari,2020-10-13 06:00:00,,147.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+92.JPG,Jatrabari,2020-10-13 06:00:00,,147.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+285.jpg,Baridhara J-Block,2020-09-10 12:00:00,,125.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+286.jpg,Baridhara J-Block,2020-09-10 12:00:00,,125.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+287.jpg,Baridhara J-Block,2020-09-10 12:00:00,,125.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1497.jpg,Banani,2022-09-01 13:00:00,,76.0,,,,,,b_Moderate,2
+1498.jpg,Banani,2022-09-01 13:00:00,,76.0,,,,,,b_Moderate,2
+1499.jpg,Banani,2022-09-01 13:00:00,,73.0,,,,,,b_Moderate,2
+1500.jpg,Banani,2022-09-01 13:00:00,,73.0,,,,,,b_Moderate,2
+1436.jpg,Banani,2022-08-04 16:00:00,,81.0,,,,,,b_Moderate,2
+1437.jpg,Banani,2022-08-04 16:00:00,,81.0,,,,,,b_Moderate,2
+1438.jpg,Banani,2022-08-04 16:00:00,,106.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1337.jpg,Banani,2022-07-12 16:00:00,,76.0,,,,,,b_Moderate,2
+1804.jpg,Banani,2022-09-22 14:00:00,,152.0,,,,,,d_Unhealthy,2
+1805.jpg,Banani,2022-09-22 14:00:00,,152.0,,,,,,d_Unhealthy,2
+1806.jpg,Banani,2022-09-22 14:00:00,,152.0,,,,,,d_Unhealthy,2
+1111.jpg,Jatrabari,2021-01-21 08:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1112.jpg,Jatrabari,2021-01-21 08:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1113.jpg,Jatrabari,2021-01-21 08:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1114.jpg,Jatrabari,2021-01-21 08:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1115.jpg,Jatrabari,2021-01-21 08:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1116.jpg,Jatrabari,2021-01-21 08:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1117.jpg,Jatrabari,2021-01-21 08:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1118.jpg,Jatrabari,2021-01-21 08:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1119.jpg,Jatrabari,2021-01-21 08:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1120.jpg,Jatrabari,2021-01-21 08:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1121.jpg,Jatrabari,2021-01-21 08:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1122.jpg,Jatrabari,2021-01-21 08:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1123.jpg,Jatrabari,2021-01-21 08:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1124.jpg,Jatrabari,2021-01-21 08:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1125.jpg,Jatrabari,2021-01-21 08:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1126.jpg,Jatrabari,2021-01-21 08:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1127.jpg,Jatrabari,2021-01-21 08:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1128.jpg,Jatrabari,2021-01-21 08:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1129.jpg,Jatrabari,2021-01-21 08:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1130.jpg,Jatrabari,2021-01-21 08:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1131.jpg,Jatrabari,2021-01-21 08:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1132.jpg,Jatrabari,2021-01-21 08:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1133.jpg,Jatrabari,2021-01-21 08:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1134.jpg,Jatrabari,2021-01-21 08:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1135.jpg,Jatrabari,2021-01-21 08:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+1136.jpg,Jatrabari,2021-01-21 08:00:00,,296.0,,,,,,e_Very_Unhealthy,2
+93.jpg,Jigatola,2020-09-17 16:00:00,,64.0,,,,,,b_Moderate,2
+94.jpg,Jigatola,2020-09-17 16:00:00,,64.0,,,,,,b_Moderate,2
+1567.jpg,Banani,2022-09-05 15:00:00,,97.0,,,,,,b_Moderate,2
+1568.jpg,Banani,2022-09-05 15:00:00,,97.0,,,,,,b_Moderate,2
+1569.jpg,Banani,2022-09-05 15:00:00,,97.0,,,,,,b_Moderate,2
+1570.jpg,Banani,2022-09-05 15:00:00,,95.0,,,,,,b_Moderate,2
+1571.jpg,Banani,2022-09-05 15:00:00,,95.0,,,,,,b_Moderate,2
+1572.jpg,Banani,2022-09-05 15:00:00,,95.0,,,,,,b_Moderate,2
+1775.jpg,Banani,2022-09-20 17:00:00,,71.0,,,,,,b_Moderate,2
+1776.jpg,Banani,2022-09-20 17:00:00,,71.0,,,,,,b_Moderate,2
+1777.jpg,Banani,2022-09-20 17:00:00,,71.0,,,,,,b_Moderate,2
+238.jpg,"Khilgaon, A block",2020-08-26 18:00:00,,59.0,,,,,,b_Moderate,2
+71.JPG,BAF Shaheen College Dhaka,2020-09-10 17:00:00,,115.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1545.jpg,Banani,2022-09-04 13:00:00,,161.0,,,,,,d_Unhealthy,2
+1200.jpg,Banani,2022-04-02 14:00:00,,156.0,,,,,,d_Unhealthy,2
+1201.jpg,Banani,2022-04-02 14:00:00,,156.0,,,,,,d_Unhealthy,2
+1202.jpg,Banani,2022-04-02 14:00:00,,156.0,,,,,,d_Unhealthy,2
+1203.jpg,Banani,2022-04-02 14:00:00,,156.0,,,,,,d_Unhealthy,2
+1204.jpg,Banani,2022-04-02 14:00:00,,156.0,,,,,,d_Unhealthy,2
+1205.jpg,Banani,2022-04-02 14:00:00,,156.0,,,,,,d_Unhealthy,2
+1206.jpg,Banani,2022-04-02 14:00:00,,156.0,,,,,,d_Unhealthy,2
+1207.jpg,Banani,2022-04-02 14:00:00,,156.0,,,,,,d_Unhealthy,2
+1208.jpg,Banani,2022-04-02 14:00:00,,156.0,,,,,,d_Unhealthy,2
+1209.jpg,Banani,2022-04-02 14:00:00,,156.0,,,,,,d_Unhealthy,2
+1210.jpg,Banani,2022-04-02 14:00:00,,156.0,,,,,,d_Unhealthy,2
+1211.jpg,Banani,2022-04-02 14:00:00,,156.0,,,,,,d_Unhealthy,2
+1212.jpg,Banani,2022-04-02 14:00:00,,156.0,,,,,,d_Unhealthy,2
+1213.jpg,Banani,2022-04-02 14:00:00,,156.0,,,,,,d_Unhealthy,2
+1214.jpg,Banani,2022-04-02 14:00:00,,156.0,,,,,,d_Unhealthy,2
+1215.jpg,Banani,2022-04-02 14:00:00,,156.0,,,,,,d_Unhealthy,2
+1216.jpg,Banani,2022-04-02 14:00:00,,156.0,,,,,,d_Unhealthy,2
+1217.jpg,Banani,2022-04-02 14:00:00,,156.0,,,,,,d_Unhealthy,2
+1218.jpg,Banani,2022-04-02 14:00:00,,156.0,,,,,,d_Unhealthy,2
+1219.jpg,Banani,2022-04-02 14:00:00,,156.0,,,,,,d_Unhealthy,2
+1220.jpg,Banani,2022-04-02 14:00:00,,156.0,,,,,,d_Unhealthy,2
+1221.jpg,Banani,2022-04-02 14:00:00,,156.0,,,,,,d_Unhealthy,2
+1222.jpg,Banani,2022-04-02 14:00:00,,156.0,,,,,,d_Unhealthy,2
+1223.jpg,Banani,2022-04-02 14:00:00,,156.0,,,,,,d_Unhealthy,2
+1224.jpg,Banani,2022-04-02 14:00:00,,156.0,,,,,,d_Unhealthy,2
+1225.jpg,Banani,2022-04-02 14:00:00,,156.0,,,,,,d_Unhealthy,2
+1226.jpg,Banani,2022-04-02 14:00:00,,156.0,,,,,,d_Unhealthy,2
+1227.jpg,Banani,2022-04-02 14:00:00,,156.0,,,,,,d_Unhealthy,2
+332.jpg,Mohakhali,2020-10-29 17:00:00,,98.0,,,,,,b_Moderate,2
+1425.jpg,Banani,2022-08-03 18:00:00,,135.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1426.jpg,Banani,2022-08-03 18:00:00,,135.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1427.jpg,Banani,2022-08-03 18:00:00,,135.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1428.jpg,Banani,2022-08-03 18:00:00,,135.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1420.jpg,Banani,2022-08-03 17:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1421.jpg,Banani,2022-08-03 17:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1422.jpg,Banani,2022-08-03 17:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1423.jpg,Banani,2022-08-03 17:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1424.jpg,Banani,2022-08-03 17:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1532.jpg,Banani,2022-09-03 14:00:00,,88.0,,,,,,b_Moderate,2
+1533.jpg,Banani,2022-09-03 14:00:00,,88.0,,,,,,b_Moderate,2
+1534.jpg,Banani,2022-09-03 14:00:00,,81.0,,,,,,b_Moderate,2
+203.jpg,Jatrabari,2019-09-23 15:00:00,,116.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+227.jpg,Puran Dhaka,2020-06-24 17:00:00,,90.0,,,,,,b_Moderate,2
+1563.jpg,Banani,2022-09-05 14:00:00,,97.0,,,,,,b_Moderate,2
+1564.jpg,Banani,2022-09-05 14:00:00,,97.0,,,,,,b_Moderate,2
+1565.jpg,Banani,2022-09-05 14:00:00,,97.0,,,,,,b_Moderate,2
+1566.jpg,Banani,2022-09-05 14:00:00,,97.0,,,,,,b_Moderate,2
+354.jpg,Mohakhali,2020-11-13 16:00:00,,100.0,,,,,,b_Moderate,2
+1310.jpg,Banani,2022-04-30 13:00:00,,135.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1311.jpg,Banani,2022-04-30 13:00:00,,135.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1312.jpg,Banani,2022-04-30 13:00:00,,135.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1313.jpg,Banani,2022-04-30 13:00:00,,140.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+291.jpg,New Market,2020-10-10 16:00:00,,153.0,,,,,,d_Unhealthy,2
+292.jpg,New Market,2020-10-10 16:00:00,,153.0,,,,,,d_Unhealthy,2
+158.jpg,Romna,2020-07-10 15:00:00,,81.0,,,,,,b_Moderate,2
+159.jpg,Romna,2020-07-10 15:00:00,,81.0,,,,,,b_Moderate,2
+160.jpg,Romna,2020-07-10 15:00:00,,81.0,,,,,,b_Moderate,2
+132.jpg,Siddheshwari,2020-09-25 15:00:00,,55.0,,,,,,b_Moderate,2
+133.jpg,Siddheshwari,2020-09-25 15:00:00,,55.0,,,,,,b_Moderate,2
+144.jpg,Siddheshwari,2020-09-25 15:00:00,,55.0,,,,,,b_Moderate,2
+1735.jpg,Banani,2022-09-18 15:00:00,,159.0,,,,,,d_Unhealthy,2
+1736.jpg,Banani,2022-09-18 15:00:00,,159.0,,,,,,d_Unhealthy,2
+1737.jpg,Banani,2022-09-18 15:00:00,,159.0,,,,,,d_Unhealthy,2
+1738.jpg,Banani,2022-09-18 15:00:00,,159.0,,,,,,d_Unhealthy,2
+1739.jpg,Banani,2022-09-18 15:00:00,,159.0,,,,,,d_Unhealthy,2
+1295.jpg,Banani,2022-04-29 13:00:00,,157.0,,,,,,d_Unhealthy,2
+1515.jpg,Banani,2022-09-02 14:00:00,,72.0,,,,,,b_Moderate,2
+1516.jpg,Banani,2022-09-02 14:00:00,,72.0,,,,,,b_Moderate,2
+1517.jpg,Banani,2022-09-02 14:00:00,,72.0,,,,,,b_Moderate,2
+1518.jpg,Banani,2022-09-02 14:00:00,,72.0,,,,,,b_Moderate,2
+468.jpg,Baridhara J-Block,2020-12-19 06:00:00,,168.0,,,,,,d_Unhealthy,2
+469.jpg,Baridhara J-Block,2020-12-19 06:00:00,,194.0,,,,,,d_Unhealthy,2
+470.jpg,Baridhara J-Block,2020-12-19 06:00:00,,194.0,,,,,,d_Unhealthy,2
+471.jpg,Baridhara J-Block,2020-12-19 06:00:00,,194.0,,,,,,d_Unhealthy,2
+472.jpg,Baridhara J-Block,2020-12-19 06:00:00,,194.0,,,,,,d_Unhealthy,2
+473.jpg,Baridhara J-Block,2020-12-19 06:00:00,,194.0,,,,,,d_Unhealthy,2
+1076.jpg,Mohakhali,2020-12-25 16:00:00,,164.0,,,,,,d_Unhealthy,2
+1077.jpg,Mohakhali,2020-12-25 16:00:00,,164.0,,,,,,d_Unhealthy,2
+1860.jpg,Banani,2022-09-27 17:00:00,,157.0,,,,,,d_Unhealthy,2
+1861.jpg,Banani,2022-09-27 17:00:00,,157.0,,,,,,d_Unhealthy,2
+1455.jpg,Mohakhali ,2022-08-06 12:00:00,,68.0,,,,,,b_Moderate,2
+1456.jpg,Mohakhali ,2022-08-06 12:00:00,,68.0,,,,,,b_Moderate,2
+219.jpg,Shat Moshjid Road,2019-03-05 13:00:00,,208.0,,,,,,e_Very_Unhealthy,2
+1525.jpg,Banani,2022-09-02 17:00:00,,74.0,,,,,,b_Moderate,2
+1526.jpg,Banani,2022-09-02 17:00:00,,74.0,,,,,,b_Moderate,2
+1527.jpg,Banani,2022-09-02 17:00:00,,74.0,,,,,,b_Moderate,2
+1528.jpg,Banani,2022-09-02 17:00:00,,79.0,,,,,,b_Moderate,2
+253.jpg,Baridhara J-Block,2020-09-15 07:00:00,,156.0,,,,,,d_Unhealthy,2
+254.jpg,Baridhara J-Block,2020-09-15 07:00:00,,156.0,,,,,,d_Unhealthy,2
+1552.jpg,Banani,2022-09-04 15:00:00,,154.0,,,,,,d_Unhealthy,2
+1553.jpg,Banani,2022-09-04 15:00:00,,154.0,,,,,,d_Unhealthy,2
+1554.jpg,Banani,2022-09-04 15:00:00,,154.0,,,,,,d_Unhealthy,2
+1555.jpg,Banani,2022-09-04 15:00:00,,140.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1556.jpg,Banani,2022-09-04 15:00:00,,140.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1557.jpg,Banani,2022-09-04 15:00:00,,140.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+200.jpg,Mohammadpur,2020-09-16 13:00:00,,50.0,,,,,,a_Good,2
+208.jpg,Mohammadpur,2020-09-16 13:00:00,,50.0,,,,,,a_Good,2
+211.jpg,Bashabo,2020-07-09 17:00:00,,42.0,,,,,,a_Good,2
+1494.jpg,Banani,2022-09-01 12:00:00,,76.0,,,,,,b_Moderate,2
+1495.jpg,Banani,2022-09-01 12:00:00,,76.0,,,,,,b_Moderate,2
+1496.jpg,Banani,2022-09-01 12:00:00,,76.0,,,,,,b_Moderate,2
+1773.jpg,Banani,2022-09-20 16:00:00,,65.0,,,,,,b_Moderate,2
+1774.jpg,Banani,2022-09-20 16:00:00,,65.0,,,,,,b_Moderate,2
+1352.jpg,Banani,2022-07-19 15:00:00,,99.0,,,,,,b_Moderate,2
+1353.jpg,Banani,2022-07-19 15:00:00,,99.0,,,,,,b_Moderate,2
+54.JPG,BAF Shaheen College Dhaka,2020-08-10 13:00:00,,97.0,,,,,,b_Moderate,2
+55.JPG,BAF Shaheen College Dhaka,2020-08-10 13:00:00,,97.0,,,,,,b_Moderate,2
+56.JPG,BAF Shaheen College Dhaka,2020-08-10 13:00:00,,97.0,,,,,,b_Moderate,2
+57.JPG,BAF Shaheen College Dhaka,2020-08-10 13:00:00,,97.0,,,,,,b_Moderate,2
+58.JPG,BAF Shaheen College Dhaka,2020-08-10 13:00:00,,97.0,,,,,,b_Moderate,2
+1758.jpg,Banani,2022-09-19 18:00:00,,76.0,,,,,,b_Moderate,2
+205.jpg,Khilkhet,2019-12-10 11:00:00,,68.0,,,,,,b_Moderate,2
+221.jpg,Dhanmondi,2019-04-19 16:00:00,,134.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+777.jpg,Baridhara J-Block,2020-12-31 13:00:00,,183.0,,,,,,d_Unhealthy,2
+778.jpg,Baridhara J-Block,2020-12-31 13:00:00,,183.0,,,,,,d_Unhealthy,2
+779.jpg,Baridhara J-Block,2020-12-31 13:00:00,,183.0,,,,,,d_Unhealthy,2
+780.jpg,Baridhara J-Block,2020-12-31 13:00:00,,183.0,,,,,,d_Unhealthy,2
+781.jpg,Baridhara J-Block,2020-12-31 13:00:00,,183.0,,,,,,d_Unhealthy,2
+782.jpg,Baridhara J-Block,2020-12-31 13:00:00,,183.0,,,,,,d_Unhealthy,2
+783.jpg,Baridhara J-Block,2020-12-31 13:00:00,,183.0,,,,,,d_Unhealthy,2
+784.jpg,Baridhara J-Block,2020-12-31 13:00:00,,183.0,,,,,,d_Unhealthy,2
+785.jpg,Baridhara J-Block,2020-12-31 13:00:00,,183.0,,,,,,d_Unhealthy,2
+786.jpg,Baridhara J-Block,2020-12-31 13:00:00,,183.0,,,,,,d_Unhealthy,2
+787.jpg,Baridhara J-Block,2020-12-31 13:00:00,,183.0,,,,,,d_Unhealthy,2
+788.jpg,Baridhara J-Block,2020-12-31 13:00:00,,183.0,,,,,,d_Unhealthy,2
+789.jpg,Baridhara J-Block,2020-12-31 13:00:00,,183.0,,,,,,d_Unhealthy,2
+790.jpg,Baridhara J-Block,2020-12-31 13:00:00,,183.0,,,,,,d_Unhealthy,2
+791.jpg,Baridhara J-Block,2020-12-31 13:00:00,,183.0,,,,,,d_Unhealthy,2
+792.jpg,Baridhara J-Block,2020-12-31 13:00:00,,183.0,,,,,,d_Unhealthy,2
+793.jpg,Baridhara J-Block,2020-12-31 13:00:00,,183.0,,,,,,d_Unhealthy,2
+794.jpg,Baridhara J-Block,2020-12-31 13:00:00,,183.0,,,,,,d_Unhealthy,2
+795.jpg,Baridhara J-Block,2020-12-31 13:00:00,,183.0,,,,,,d_Unhealthy,2
+796.jpg,Baridhara J-Block,2020-12-31 13:00:00,,183.0,,,,,,d_Unhealthy,2
+797.jpg,Baridhara J-Block,2020-12-31 13:00:00,,183.0,,,,,,d_Unhealthy,2
+798.jpg,Baridhara J-Block,2020-12-31 13:00:00,,183.0,,,,,,d_Unhealthy,2
+210.jpg,Khilgaon flyover,2020-08-22 17:00:00,,130.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1701.jpg,Banani,2022-09-15 17:00:00,,82.0,,,,,,b_Moderate,2
+1702.jpg,Banani,2022-09-15 17:00:00,,82.0,,,,,,b_Moderate,2
+1703.jpg,Banani,2022-09-15 17:00:00,,82.0,,,,,,b_Moderate,2
+1704.jpg,Banani,2022-09-15 17:00:00,,82.0,,,,,,b_Moderate,2
+1705.jpg,Banani,2022-09-15 17:00:00,,92.0,,,,,,b_Moderate,2
+1706.jpg,Banani,2022-09-15 17:00:00,,92.0,,,,,,b_Moderate,2
+1707.jpg,Banani,2022-09-15 17:00:00,,92.0,,,,,,b_Moderate,2
+1746.jpg,Banani,2022-09-19 15:00:00,,71.0,,,,,,b_Moderate,2
+1747.jpg,Banani,2022-09-19 15:00:00,,71.0,,,,,,b_Moderate,2
+1748.jpg,Banani,2022-09-19 15:00:00,,71.0,,,,,,b_Moderate,2
+1749.jpg,Banani,2022-09-19 15:00:00,,71.0,,,,,,b_Moderate,2
+305.jpg,Mohakhali,2020-10-26 08:00:00,,151.0,,,,,,d_Unhealthy,2
+306.jpg,Mohakhali,2020-10-26 08:00:00,,151.0,,,,,,d_Unhealthy,2
+1152.jpg,Gulshan - 1,2021-01-21 17:00:00,,233.0,,,,,,e_Very_Unhealthy,2
+1153.jpg,Gulshan - 1,2021-01-21 17:00:00,,233.0,,,,,,e_Very_Unhealthy,2
+1154.jpg,Gulshan - 1,2021-01-21 17:00:00,,233.0,,,,,,e_Very_Unhealthy,2
+315.jpg,BAF Shaheen College Dhaka,2020-10-28 12:00:00,,90.0,,,,,,b_Moderate,2
+316.jpg,BAF Shaheen College Dhaka,2020-10-28 12:00:00,,90.0,,,,,,b_Moderate,2
+317.jpg,BAF Shaheen College Dhaka,2020-10-28 12:00:00,,90.0,,,,,,b_Moderate,2
+318.jpg,BAF Shaheen College Dhaka,2020-10-28 12:00:00,,90.0,,,,,,b_Moderate,2
+319.jpg,BAF Shaheen College Dhaka,2020-10-28 12:00:00,,90.0,,,,,,b_Moderate,2
+320.jpg,BAF Shaheen College Dhaka,2020-10-28 12:00:00,,90.0,,,,,,b_Moderate,2
+321.jpg,BAF Shaheen College Dhaka,2020-10-28 12:00:00,,90.0,,,,,,b_Moderate,2
+322.jpg,BAF Shaheen College Dhaka,2020-10-28 12:00:00,,90.0,,,,,,b_Moderate,2
+323.jpg,BAF Shaheen College Dhaka,2020-10-28 12:00:00,,90.0,,,,,,b_Moderate,2
+324.jpg,BAF Shaheen College Dhaka,2020-10-28 12:00:00,,90.0,,,,,,b_Moderate,2
+325.jpg,BAF Shaheen College Dhaka,2020-10-28 12:00:00,,90.0,,,,,,b_Moderate,2
+326.jpg,BAF Shaheen College Dhaka,2020-10-28 12:00:00,,90.0,,,,,,b_Moderate,2
+394.jpg,Mohakhali,2020-02-12 11:00:00,,179.0,,,,,,e_Very_Unhealthy,2
+145.jpg,Siddheshwari,2020-09-25 17:00:00,,66.0,,,,,,b_Moderate,2
+146.jpg,Siddheshwari,2020-09-25 17:00:00,,66.0,,,,,,b_Moderate,2
+113.jpg,Romna,2020-03-08 16:00:00,,73.0,,,,,,b_Moderate,2
+617.jpg,Baridhara J-Block,2020-12-25 06:00:00,,208.0,,,,,,e_Very_Unhealthy,2
+618.jpg,Baridhara J-Block,2020-12-25 06:00:00,,208.0,,,,,,e_Very_Unhealthy,2
+619.jpg,Baridhara J-Block,2020-12-25 06:00:00,,208.0,,,,,,e_Very_Unhealthy,2
+620.jpg,Baridhara J-Block,2020-12-25 06:00:00,,208.0,,,,,,e_Very_Unhealthy,2
+621.jpg,Baridhara J-Block,2020-12-25 06:00:00,,208.0,,,,,,e_Very_Unhealthy,2
+622.jpg,Baridhara J-Block,2020-12-25 06:00:00,,208.0,,,,,,e_Very_Unhealthy,2
+623.jpg,Baridhara J-Block,2020-12-25 06:00:00,,208.0,,,,,,e_Very_Unhealthy,2
+624.jpg,Baridhara J-Block,2020-12-25 06:00:00,,208.0,,,,,,e_Very_Unhealthy,2
+625.jpg,Baridhara J-Block,2020-12-25 06:00:00,,208.0,,,,,,e_Very_Unhealthy,2
+626.jpg,Baridhara J-Block,2020-12-25 06:00:00,,208.0,,,,,,e_Very_Unhealthy,2
+627.jpg,Baridhara J-Block,2020-12-25 06:00:00,,208.0,,,,,,e_Very_Unhealthy,2
+628.jpg,Baridhara J-Block,2020-12-25 06:00:00,,208.0,,,,,,e_Very_Unhealthy,2
+629.jpg,Baridhara J-Block,2020-12-25 06:00:00,,208.0,,,,,,e_Very_Unhealthy,2
+630.jpg,Baridhara J-Block,2020-12-25 06:00:00,,208.0,,,,,,e_Very_Unhealthy,2
+631.jpg,Baridhara J-Block,2020-12-25 06:00:00,,208.0,,,,,,e_Very_Unhealthy,2
+632.jpg,Baridhara J-Block,2020-12-25 06:00:00,,208.0,,,,,,e_Very_Unhealthy,2
+633.jpg,Baridhara J-Block,2020-12-25 06:00:00,,208.0,,,,,,e_Very_Unhealthy,2
+28.JPG,Gulshan 1,2020-09-28 17:00:00,,81.0,,,,,,b_Moderate,2
+667.jpg,Baridhara J-Block,2020-12-26 14:00:00,,173.0,,,,,,d_Unhealthy,2
+668.jpg,Baridhara J-Block,2020-12-26 14:00:00,,173.0,,,,,,d_Unhealthy,2
+669.jpg,Baridhara J-Block,2020-12-26 14:00:00,,173.0,,,,,,d_Unhealthy,2
+670.jpg,Baridhara J-Block,2020-12-26 14:00:00,,173.0,,,,,,d_Unhealthy,2
+671.jpg,Baridhara J-Block,2020-12-26 14:00:00,,173.0,,,,,,d_Unhealthy,2
+672.jpg,Baridhara J-Block,2020-12-26 14:00:00,,173.0,,,,,,d_Unhealthy,2
+673.jpg,Baridhara J-Block,2020-12-26 14:00:00,,173.0,,,,,,d_Unhealthy,2
+674.jpg,Baridhara J-Block,2020-12-26 14:00:00,,173.0,,,,,,d_Unhealthy,2
+675.jpg,Baridhara J-Block,2020-12-26 14:00:00,,173.0,,,,,,d_Unhealthy,2
+676.jpg,Baridhara J-Block,2020-12-26 14:00:00,,173.0,,,,,,d_Unhealthy,2
+677.jpg,Baridhara J-Block,2020-12-26 14:00:00,,173.0,,,,,,d_Unhealthy,2
+226.jpg,DU,2020-01-13 16:00:00,,232.0,,,,,,e_Very_Unhealthy,2
+532.jpg,Baridhara J-Block,2020-12-20 17:00:00,,204.0,,,,,,d_Unhealthy,2
+533.jpg,Baridhara J-Block,2020-12-20 17:00:00,,204.0,,,,,,d_Unhealthy,2
+534.jpg,Baridhara J-Block,2020-12-20 17:00:00,,204.0,,,,,,d_Unhealthy,2
+535.jpg,Baridhara J-Block,2020-12-20 17:00:00,,204.0,,,,,,d_Unhealthy,2
+536.jpg,Baridhara J-Block,2020-12-20 17:00:00,,204.0,,,,,,d_Unhealthy,2
+537.jpg,Baridhara J-Block,2020-12-20 17:00:00,,204.0,,,,,,d_Unhealthy,2
+538.jpg,Baridhara J-Block,2020-12-20 17:00:00,,204.0,,,,,,d_Unhealthy,2
+539.jpg,Baridhara J-Block,2020-12-20 17:00:00,,204.0,,,,,,d_Unhealthy,2
+540.jpg,Baridhara J-Block,2020-12-20 17:00:00,,204.0,,,,,,d_Unhealthy,2
+541.jpg,Baridhara J-Block,2020-12-20 17:00:00,,204.0,,,,,,d_Unhealthy,2
+111.jpg,Romna,2020-04-08 17:00:00,,53.0,,,,,,b_Moderate,2
+29.JPG,BAF Shaheen College Dhaka,2020-05-10 12:00:00,,97.0,,,,,,b_Moderate,2
+30.JPG,BAF Shaheen College Dhaka,2020-05-10 12:00:00,,97.0,,,,,,b_Moderate,2
+31.JPG,BAF Shaheen College Dhaka,2020-05-10 12:00:00,,97.0,,,,,,b_Moderate,2
+32.JPG,BAF Shaheen College Dhaka,2020-05-10 12:00:00,,97.0,,,,,,b_Moderate,2
+33.JPG,BAF Shaheen College Dhaka,2020-05-10 12:00:00,,97.0,,,,,,b_Moderate,2
+449.jpg,Baridhara J-Block,2020-11-27 05:00:00,,186.0,,,,,,d_Unhealthy,2
+450.jpg,Baridhara J-Block,2020-11-27 05:00:00,,186.0,,,,,,d_Unhealthy,2
+451.jpg,Baridhara J-Block,2020-11-27 05:00:00,,186.0,,,,,,d_Unhealthy,2
+452.jpg,Baridhara J-Block,2020-11-27 05:00:00,,186.0,,,,,,d_Unhealthy,2
+453.jpg,Baridhara J-Block,2020-11-27 05:00:00,,186.0,,,,,,d_Unhealthy,2
+454.jpg,Baridhara J-Block,2020-11-27 05:00:00,,186.0,,,,,,d_Unhealthy,2
+1759.jpg,Banani,2022-09-20 13:00:00,,62.0,,,,,,b_Moderate,2
+1760.jpg,Banani,2022-09-20 13:00:00,,62.0,,,,,,b_Moderate,2
+1761.jpg,Banani,2022-09-20 13:00:00,,62.0,,,,,,b_Moderate,2
+1558.jpg,Banani,2022-09-04 16:00:00,,140.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1559.jpg,Banani,2022-09-04 16:00:00,,140.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1560.jpg,Banani,2022-09-04 16:00:00,,140.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1561.jpg,Banani,2022-09-04 16:00:00,,115.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1562.jpg,Banani,2022-09-04 16:00:00,,115.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+313.jpg,Shaheenbagh,2020-10-28 12:00:00,,90.0,,,,,,b_Moderate,2
+314.jpg,Shaheenbagh,2020-10-28 12:00:00,,90.0,,,,,,b_Moderate,2
+1513.jpg,Banani,2022-09-02 13:00:00,,72.0,,,,,,b_Moderate,2
+1514.jpg,Banani,2022-09-02 13:00:00,,72.0,,,,,,b_Moderate,2
+1529.jpg,Banani,2022-09-02 13:00:00,,72.0,,,,,,b_Moderate,2
+1266.jpg,Banani,2022-04-10 13:00:00,,156.0,,,,,,d_Unhealthy,2
+1267.jpg,Banani,2022-04-10 13:00:00,,156.0,,,,,,d_Unhealthy,2
+1268.jpg,Banani,2022-04-10 13:00:00,,156.0,,,,,,d_Unhealthy,2
+1269.jpg,Banani,2022-04-10 13:00:00,,156.0,,,,,,d_Unhealthy,2
+1270.jpg,Banani,2022-04-10 13:00:00,,156.0,,,,,,d_Unhealthy,2
+1872.jpg,Banani,2022-09-28 17:00:00,,171.0,,,,,,d_Unhealthy,2
+140.jpg,Siddheshwari,2020-09-21 17:00:00,,58.0,,,,,,b_Moderate,2
+141.jpg,Siddheshwari,2020-09-21 17:00:00,,58.0,,,,,,b_Moderate,2
+1354.jpg,Banani,2022-07-19 16:00:00,,99.0,,,,,,b_Moderate,2
+1355.jpg,Banani,2022-07-19 16:00:00,,99.0,,,,,,b_Moderate,2
+1356.jpg,Banani,2022-07-19 16:00:00,,92.0,,,,,,b_Moderate,2
+1357.jpg,Banani,2022-07-19 16:00:00,,92.0,,,,,,b_Moderate,2
+83.JPG,Mogbazar,2020-10-13 06:00:00,,147.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+404.jpg,Baridhara J-Block,2020-09-12 16:00:00,,294.0,,,,,,e_Very_Unhealthy,2
+408.jpg,Baridhara J-Block,2020-09-12 16:00:00,,294.0,,,,,,e_Very_Unhealthy,2
+409.jpg,Baridhara J-Block,2020-09-12 16:00:00,,294.0,,,,,,e_Very_Unhealthy,2
+410.jpg,Baridhara J-Block,2020-09-12 16:00:00,,294.0,,,,,,e_Very_Unhealthy,2
+216.jpg,Mirpur,2020-09-14 17:00:00,,74.0,,,,,,b_Moderate,2
+1829.jpg,Banani,2022-09-24 16:00:00,,123.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1830.jpg,Banani,2022-09-24 16:00:00,,123.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1831.jpg,Banani,2022-09-24 16:00:00,,123.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1832.jpg,Banani,2022-09-24 16:00:00,,125.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1833.jpg,Banani,2022-09-24 16:00:00,,125.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1834.jpg,Banani,2022-09-24 16:00:00,,125.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+112.jpg,Romna,2020-10-21 15:00:00,,76.0,,,,,,b_Moderate,2
+147.jpg,Siddheshwari,2020-09-26 17:00:00,,77.0,,,,,,b_Moderate,2
+1040.jpg,Mogbazar,2020-12-12 07:00:00,,207.0,,,,,,e_Very_Unhealthy,2
+1041.jpg,Mogbazar,2020-12-12 07:00:00,,207.0,,,,,,e_Very_Unhealthy,2
+1042.jpg,Mogbazar,2020-12-12 07:00:00,,207.0,,,,,,e_Very_Unhealthy,2
+1043.jpg,Mogbazar,2020-12-12 07:00:00,,207.0,,,,,,e_Very_Unhealthy,2
+1044.jpg,Mogbazar,2020-12-12 07:00:00,,207.0,,,,,,e_Very_Unhealthy,2
+343.jpg,Mohakhali,2020-10-11 12:00:00,,84.0,,,,,,b_Moderate,2
+344.jpg,Mohakhali,2020-10-11 12:00:00,,84.0,,,,,,b_Moderate,2
+4.JPG,Khilgaon,2020-09-23 12:00:00,,73.0,,,,,,b_Moderate,2
+259.jpg,Baridhara J-Block,2020-09-20 13:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+103.jpg,Romna,2020-09-15 15:00:00,,64.0,,,,,,b_Moderate,2
+1417.jpg,Banani,2022-08-03 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1418.jpg,Banani,2022-08-03 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1419.jpg,Banani,2022-08-03 16:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+201.jpg,Mohakhali,2020-12-03 17:00:00,,170.0,,,,,,d_Unhealthy,2
+1843.jpg,Banani,2022-09-27 13:00:00,,151.0,,,,,,d_Unhealthy,2
+1844.jpg,Banani,2022-09-27 13:00:00,,154.0,,,,,,d_Unhealthy,2
+1845.jpg,Banani,2022-09-27 13:00:00,,154.0,,,,,,d_Unhealthy,2
+1846.jpg,Banani,2022-09-27 13:00:00,,154.0,,,,,,d_Unhealthy,2
+1019.jpg,Baridhara J-Block,2021-05-01 14:00:00,,183.0,,,,,,d_Unhealthy,2
+1020.jpg,Baridhara J-Block,2021-05-01 14:00:00,,183.0,,,,,,d_Unhealthy,2
+1021.jpg,Baridhara J-Block,2021-05-01 14:00:00,,183.0,,,,,,d_Unhealthy,2
+1022.jpg,Baridhara J-Block,2021-05-01 14:00:00,,183.0,,,,,,d_Unhealthy,2
+1023.jpg,Baridhara J-Block,2021-05-01 14:00:00,,183.0,,,,,,d_Unhealthy,2
+1024.jpg,Baridhara J-Block,2021-05-01 14:00:00,,183.0,,,,,,d_Unhealthy,2
+1025.jpg,Baridhara J-Block,2021-05-01 14:00:00,,183.0,,,,,,d_Unhealthy,2
+1026.jpg,Baridhara J-Block,2021-05-01 14:00:00,,183.0,,,,,,d_Unhealthy,2
+1027.jpg,Baridhara J-Block,2021-05-01 14:00:00,,183.0,,,,,,d_Unhealthy,2
+1028.jpg,Baridhara J-Block,2021-05-01 14:00:00,,183.0,,,,,,d_Unhealthy,2
+1029.jpg,Baridhara J-Block,2021-05-01 14:00:00,,183.0,,,,,,d_Unhealthy,2
+1030.jpg,Baridhara J-Block,2021-05-01 14:00:00,,183.0,,,,,,d_Unhealthy,2
+1031.jpg,Baridhara J-Block,2021-05-01 14:00:00,,183.0,,,,,,d_Unhealthy,2
+1032.jpg,Baridhara J-Block,2021-05-01 14:00:00,,183.0,,,,,,d_Unhealthy,2
+1033.jpg,Baridhara J-Block,2021-05-01 14:00:00,,183.0,,,,,,d_Unhealthy,2
+1034.jpg,Baridhara J-Block,2021-05-01 14:00:00,,183.0,,,,,,d_Unhealthy,2
+1035.jpg,Baridhara J-Block,2021-05-01 14:00:00,,183.0,,,,,,d_Unhealthy,2
+1036.jpg,Baridhara J-Block,2021-05-01 14:00:00,,183.0,,,,,,d_Unhealthy,2
+1037.jpg,Baridhara J-Block,2021-05-01 14:00:00,,183.0,,,,,,d_Unhealthy,2
+1038.jpg,Baridhara J-Block,2021-05-01 14:00:00,,183.0,,,,,,d_Unhealthy,2
+1045.jpg,Jatrabari,2020-12-12 07:00:00,,207.0,,,,,,e_Very_Unhealthy,2
+1046.jpg,Jatrabari,2020-12-12 07:00:00,,207.0,,,,,,e_Very_Unhealthy,2
+1047.jpg,Jatrabari,2020-12-12 07:00:00,,207.0,,,,,,e_Very_Unhealthy,2
+1048.jpg,Jatrabari,2020-12-12 07:00:00,,207.0,,,,,,e_Very_Unhealthy,2
+1049.jpg,Jatrabari,2020-12-12 07:00:00,,207.0,,,,,,e_Very_Unhealthy,2
+1050.jpg,Jatrabari,2020-12-12 07:00:00,,207.0,,,,,,e_Very_Unhealthy,2
+1051.jpg,Jatrabari,2020-12-12 07:00:00,,207.0,,,,,,e_Very_Unhealthy,2
+1052.jpg,Jatrabari,2020-12-12 07:00:00,,207.0,,,,,,e_Very_Unhealthy,2
+1053.jpg,Jatrabari,2020-12-12 07:00:00,,207.0,,,,,,e_Very_Unhealthy,2
+1054.jpg,Jatrabari,2020-12-12 07:00:00,,207.0,,,,,,e_Very_Unhealthy,2
+1055.jpg,Jatrabari,2020-12-12 07:00:00,,207.0,,,,,,e_Very_Unhealthy,2
+1056.jpg,Jatrabari,2020-12-12 07:00:00,,207.0,,,,,,e_Very_Unhealthy,2
+1057.jpg,Jatrabari,2020-12-12 07:00:00,,207.0,,,,,,e_Very_Unhealthy,2
+1058.jpg,Jatrabari,2020-12-12 07:00:00,,207.0,,,,,,e_Very_Unhealthy,2
+1059.jpg,Jatrabari,2020-12-12 07:00:00,,207.0,,,,,,e_Very_Unhealthy,2
+1060.jpg,Jatrabari,2020-12-12 07:00:00,,207.0,,,,,,e_Very_Unhealthy,2
+1061.jpg,Jatrabari,2020-12-12 07:00:00,,207.0,,,,,,e_Very_Unhealthy,2
+1062.jpg,Jatrabari,2020-12-12 07:00:00,,207.0,,,,,,e_Very_Unhealthy,2
+1063.jpg,Jatrabari,2020-12-12 07:00:00,,207.0,,,,,,e_Very_Unhealthy,2
+1064.jpg,Jatrabari,2020-12-12 07:00:00,,207.0,,,,,,e_Very_Unhealthy,2
+1065.jpg,Jatrabari,2020-12-12 07:00:00,,207.0,,,,,,e_Very_Unhealthy,2
+1066.jpg,Jatrabari,2020-12-12 07:00:00,,207.0,,,,,,e_Very_Unhealthy,2
+1067.jpg,Jatrabari,2020-12-12 07:00:00,,207.0,,,,,,e_Very_Unhealthy,2
+1068.jpg,Jatrabari,2020-12-12 07:00:00,,207.0,,,,,,e_Very_Unhealthy,2
+799.jpg,Baridhara J-Block,2020-12-31 15:00:00,,168.0,,,,,,d_Unhealthy,2
+800.jpg,Baridhara J-Block,2020-12-31 15:00:00,,168.0,,,,,,d_Unhealthy,2
+801.jpg,Baridhara J-Block,2020-12-31 15:00:00,,168.0,,,,,,d_Unhealthy,2
+802.jpg,Baridhara J-Block,2020-12-31 15:00:00,,168.0,,,,,,d_Unhealthy,2
+803.jpg,Baridhara J-Block,2020-12-31 15:00:00,,168.0,,,,,,d_Unhealthy,2
+804.jpg,Baridhara J-Block,2020-12-31 15:00:00,,168.0,,,,,,d_Unhealthy,2
+805.jpg,Baridhara J-Block,2020-12-31 15:00:00,,168.0,,,,,,d_Unhealthy,2
+806.jpg,Baridhara J-Block,2020-12-31 15:00:00,,168.0,,,,,,d_Unhealthy,2
+807.jpg,Baridhara J-Block,2020-12-31 15:00:00,,168.0,,,,,,d_Unhealthy,2
+808.jpg,Baridhara J-Block,2020-12-31 15:00:00,,168.0,,,,,,d_Unhealthy,2
+809.jpg,Baridhara J-Block,2020-12-31 15:00:00,,168.0,,,,,,d_Unhealthy,2
+810.jpg,Baridhara J-Block,2020-12-31 15:00:00,,168.0,,,,,,d_Unhealthy,2
+811.jpg,Baridhara J-Block,2020-12-31 15:00:00,,168.0,,,,,,d_Unhealthy,2
+812.jpg,Baridhara J-Block,2020-12-31 15:00:00,,168.0,,,,,,d_Unhealthy,2
+813.jpg,Baridhara J-Block,2020-12-31 15:00:00,,168.0,,,,,,d_Unhealthy,2
+814.jpg,Baridhara J-Block,2020-12-31 15:00:00,,168.0,,,,,,d_Unhealthy,2
+1281.jpg,Banani,2022-04-10 16:00:00,,153.0,,,,,,d_Unhealthy,2
+1282.jpg,Banani,2022-04-10 16:00:00,,153.0,,,,,,d_Unhealthy,2
+1283.jpg,Banani,2022-04-10 16:00:00,,153.0,,,,,,d_Unhealthy,2
+1284.jpg,Banani,2022-04-10 16:00:00,,153.0,,,,,,d_Unhealthy,2
+7.JPG,Shaheenbagh,2020-09-23 15:00:00,,60.0,,,,,,b_Moderate,2
+10.JPG,Shaheenbagh,2020-09-23 15:00:00,,60.0,,,,,,b_Moderate,2
+11.JPG,Shaheenbagh,2020-09-23 15:00:00,,60.0,,,,,,b_Moderate,2
+12.JPG,Shaheenbagh,2020-09-23 15:00:00,,60.0,,,,,,b_Moderate,2
+1694.jpg,Banani,2022-09-15 16:00:00,,80.0,,,,,,b_Moderate,2
+1695.jpg,Banani,2022-09-15 16:00:00,,80.0,,,,,,b_Moderate,2
+1696.jpg,Banani,2022-09-15 16:00:00,,80.0,,,,,,b_Moderate,2
+1697.jpg,Banani,2022-09-15 16:00:00,,82.0,,,,,,b_Moderate,2
+1698.jpg,Banani,2022-09-15 16:00:00,,82.0,,,,,,b_Moderate,2
+1699.jpg,Banani,2022-09-15 16:00:00,,82.0,,,,,,b_Moderate,2
+1700.jpg,Banani,2022-09-15 16:00:00,,82.0,,,,,,b_Moderate,2
+427.jpg,Baridhara J-Block,2020-11-17 12:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+428.jpg,Baridhara J-Block,2020-11-17 12:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+429.jpg,Baridhara J-Block,2020-11-17 12:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1489.jpg,Banani,2022-08-07 16:00:00,,80.0,,,,,,b_Moderate,2
+1490.jpg,Banani,2022-08-07 16:00:00,,80.0,,,,,,b_Moderate,2
+1491.jpg,Banani,2022-08-07 16:00:00,,80.0,,,,,,b_Moderate,2
+1492.jpg,Banani,2022-08-07 16:00:00,,80.0,,,,,,b_Moderate,2
+1493.jpg,Banani,2022-08-07 16:00:00,,71.0,,,,,,b_Moderate,2
+327.jpg,Mohakhali,2020-10-28 13:00:00,,90.0,,,,,,b_Moderate,2
+328.jpg,Mohakhali,2020-10-28 13:00:00,,90.0,,,,,,b_Moderate,2
+329.jpg,Mohakhali,2020-10-28 13:00:00,,90.0,,,,,,b_Moderate,2
+330.jpg,Mohakhali,2020-10-28 13:00:00,,90.0,,,,,,b_Moderate,2
+389.jpg,Mohakhali,2020-11-28 15:00:00,,162.0,,,,,,d_Unhealthy,2
+390.jpg,Mohakhali,2020-11-28 15:00:00,,162.0,,,,,,d_Unhealthy,2
+355.jpg,"Masjid-e-Gausul Azam, Mohakhali",2020-11-13 17:00:00,,112.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+359.jpg,"Masjid-e-Gausul Azam, Mohakhali",2020-11-13 17:00:00,,112.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+360.jpg,"Masjid-e-Gausul Azam, Mohakhali",2020-11-13 17:00:00,,112.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+120.jpg,Romna,2020-09-24 13:00:00,,55.0,,,,,,b_Moderate,2
+121.jpg,Romna,2020-09-24 13:00:00,,55.0,,,,,,b_Moderate,2
+264.jpg,Baridhara J-Block,2020-09-26 06:00:00,,61.0,,,,,,b_Moderate,2
+265.jpg,Baridhara J-Block,2020-09-26 06:00:00,,61.0,,,,,,b_Moderate,2
+266.jpg,Baridhara J-Block,2020-09-26 06:00:00,,61.0,,,,,,b_Moderate,2
+267.jpg,Baridhara J-Block,2020-09-26 06:00:00,,61.0,,,,,,b_Moderate,2
+1309.jpg,Banani,2022-04-30 12:00:00,,135.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+405.jpg,Baridhara J-Block,2020-09-12 12:00:00,,233.0,,,,,,e_Very_Unhealthy,2
+406.jpg,Baridhara J-Block,2020-09-12 12:00:00,,233.0,,,,,,e_Very_Unhealthy,2
+407.jpg,Baridhara J-Block,2020-09-12 12:00:00,,233.0,,,,,,e_Very_Unhealthy,2
+1865.jpg,Banani,2022-09-28 14:00:00,,156.0,,,,,,d_Unhealthy,2
+1866.jpg,Banani,2022-09-28 14:00:00,,156.0,,,,,,d_Unhealthy,2
+163.jpg,Romna,2020-10-13 14:00:00,,170.0,,,,,,d_Unhealthy,2
+164.jpg,Romna,2020-10-13 14:00:00,,170.0,,,,,,d_Unhealthy,2
+588.jpg,Baridhara J-Block,2020-12-24 15:00:00,,162.0,,,,,,d_Unhealthy,2
+589.jpg,Baridhara J-Block,2020-12-24 15:00:00,,162.0,,,,,,d_Unhealthy,2
+590.jpg,Baridhara J-Block,2020-12-24 15:00:00,,162.0,,,,,,d_Unhealthy,2
+591.jpg,Baridhara J-Block,2020-12-24 15:00:00,,162.0,,,,,,d_Unhealthy,2
+592.jpg,Baridhara J-Block,2020-12-24 15:00:00,,162.0,,,,,,d_Unhealthy,2
+593.jpg,Baridhara J-Block,2020-12-24 15:00:00,,162.0,,,,,,d_Unhealthy,2
+594.jpg,Baridhara J-Block,2020-12-24 15:00:00,,162.0,,,,,,d_Unhealthy,2
+595.jpg,Baridhara J-Block,2020-12-24 15:00:00,,162.0,,,,,,d_Unhealthy,2
+596.jpg,Baridhara J-Block,2020-12-24 15:00:00,,162.0,,,,,,d_Unhealthy,2
+597.jpg,Baridhara J-Block,2020-12-24 15:00:00,,162.0,,,,,,d_Unhealthy,2
+598.jpg,Baridhara J-Block,2020-12-24 15:00:00,,162.0,,,,,,d_Unhealthy,2
+599.jpg,Baridhara J-Block,2020-12-24 15:00:00,,162.0,,,,,,d_Unhealthy,2
+600.jpg,Baridhara J-Block,2020-12-24 15:00:00,,162.0,,,,,,d_Unhealthy,2
+601.jpg,Baridhara J-Block,2020-12-24 15:00:00,,162.0,,,,,,d_Unhealthy,2
+602.jpg,Baridhara J-Block,2020-12-24 15:00:00,,162.0,,,,,,d_Unhealthy,2
+603.jpg,Baridhara J-Block,2020-12-24 15:00:00,,162.0,,,,,,d_Unhealthy,2
+307.jpg,Mohakhali,2020-10-26 16:00:00,,155.0,,,,,,d_Unhealthy,2
+308.jpg,Mohakhali,2020-10-26 16:00:00,,155.0,,,,,,d_Unhealthy,2
+1643.jpg,Banani,2022-09-09 17:00:00,,67.0,,,,,,b_Moderate,2
+1644.jpg,Banani,2022-09-09 17:00:00,,67.0,,,,,,b_Moderate,2
+1645.jpg,Banani,2022-09-09 17:00:00,,67.0,,,,,,b_Moderate,2
+1646.jpg,Banani,2022-09-09 17:00:00,,70.0,,,,,,b_Moderate,2
+374.jpg,Gulshan - 1,2020-11-17 17:00:00,,157.0,,,,,,d_Unhealthy,2
+375.jpg,Gulshan - 1,2020-11-17 17:00:00,,157.0,,,,,,d_Unhealthy,2
+376.jpg,Gulshan - 1,2020-11-17 17:00:00,,157.0,,,,,,d_Unhealthy,2
+104.jpg,Romna,2020-06-09 18:00:00,,78.0,,,,,,b_Moderate,2
+1597.jpg,Banani,2022-09-06 16:00:00,,95.0,,,,,,b_Moderate,2
+1598.jpg,Banani,2022-09-06 16:00:00,,95.0,,,,,,b_Moderate,2
+1599.jpg,Banani,2022-09-06 16:00:00,,95.0,,,,,,b_Moderate,2
+1600.jpg,Banani,2022-09-06 16:00:00,,95.0,,,,,,b_Moderate,2
+1801.jpg,Banani,2022-09-21 18:00:00,,138.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+462.jpg,Baridhara J-Block,2020-12-17 12:00:00,,230.0,,,,,,e_Very_Unhealthy,2
+463.jpg,Baridhara J-Block,2020-12-17 12:00:00,,230.0,,,,,,e_Very_Unhealthy,2
+464.jpg,Baridhara J-Block,2020-12-17 12:00:00,,230.0,,,,,,e_Very_Unhealthy,2
+985.jpg,Baridhara J-Block,2021-03-01 16:00:00,,173.0,,,,,,d_Unhealthy,2
+986.jpg,Baridhara J-Block,2021-03-01 16:00:00,,173.0,,,,,,d_Unhealthy,2
+987.jpg,Baridhara J-Block,2021-03-01 16:00:00,,173.0,,,,,,d_Unhealthy,2
+988.jpg,Baridhara J-Block,2021-03-01 16:00:00,,173.0,,,,,,d_Unhealthy,2
+989.jpg,Baridhara J-Block,2021-03-01 16:00:00,,173.0,,,,,,d_Unhealthy,2
+1615.jpg,Banani,2022-09-08 17:00:00,,148.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1616.jpg,Banani,2022-09-08 17:00:00,,148.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1617.jpg,Banani,2022-09-08 17:00:00,,148.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1618.jpg,Banani,2022-09-08 17:00:00,,148.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1619.jpg,Banani,2022-09-08 17:00:00,,147.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1620.jpg,Banani,2022-09-08 17:00:00,,147.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+218.jpg,Babu Bazar Bridge,2020-07-17 18:00:00,,128.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1325.jpg,Banani,2022-05-02 16:00:00,,98.0,,,,,,b_Moderate,2
+1326.jpg,Banani,2022-05-02 16:00:00,,98.0,,,,,,b_Moderate,2
+1327.jpg,Banani,2022-05-02 16:00:00,,98.0,,,,,,b_Moderate,2
+1328.jpg,Banani,2022-05-02 16:00:00,,96.0,,,,,,b_Moderate,2
+1329.jpg,Banani,2022-05-02 16:00:00,,96.0,,,,,,b_Moderate,2
+1330.jpg,Banani,2022-05-02 16:00:00,,96.0,,,,,,b_Moderate,2
+916.jpg,Baridhara J-Block,2021-02-01 12:00:00,,184.0,,,,,,d_Unhealthy,2
+917.jpg,Baridhara J-Block,2021-02-01 12:00:00,,184.0,,,,,,d_Unhealthy,2
+918.jpg,Baridhara J-Block,2021-02-01 12:00:00,,184.0,,,,,,d_Unhealthy,2
+919.jpg,Baridhara J-Block,2021-02-01 12:00:00,,184.0,,,,,,d_Unhealthy,2
+920.jpg,Baridhara J-Block,2021-02-01 12:00:00,,184.0,,,,,,d_Unhealthy,2
+921.jpg,Baridhara J-Block,2021-02-01 12:00:00,,184.0,,,,,,d_Unhealthy,2
+922.jpg,Baridhara J-Block,2021-02-01 12:00:00,,184.0,,,,,,d_Unhealthy,2
+923.jpg,Baridhara J-Block,2021-02-01 12:00:00,,184.0,,,,,,d_Unhealthy,2
+924.jpg,Baridhara J-Block,2021-02-01 12:00:00,,184.0,,,,,,d_Unhealthy,2
+925.jpg,Baridhara J-Block,2021-02-01 12:00:00,,184.0,,,,,,d_Unhealthy,2
+926.jpg,Baridhara J-Block,2021-02-01 12:00:00,,184.0,,,,,,d_Unhealthy,2
+927.jpg,Baridhara J-Block,2021-02-01 12:00:00,,184.0,,,,,,d_Unhealthy,2
+928.jpg,Baridhara J-Block,2021-02-01 12:00:00,,184.0,,,,,,d_Unhealthy,2
+929.jpg,Baridhara J-Block,2021-02-01 12:00:00,,184.0,,,,,,d_Unhealthy,2
+930.jpg,Baridhara J-Block,2021-02-01 12:00:00,,184.0,,,,,,d_Unhealthy,2
+931.jpg,Baridhara J-Block,2021-02-01 12:00:00,,184.0,,,,,,d_Unhealthy,2
+932.jpg,Baridhara J-Block,2021-02-01 12:00:00,,184.0,,,,,,d_Unhealthy,2
+933.jpg,Baridhara J-Block,2021-02-01 12:00:00,,184.0,,,,,,d_Unhealthy,2
+934.jpg,Baridhara J-Block,2021-02-01 12:00:00,,184.0,,,,,,d_Unhealthy,2
+935.jpg,Baridhara J-Block,2021-02-01 12:00:00,,184.0,,,,,,d_Unhealthy,2
+936.jpg,Baridhara J-Block,2021-02-01 12:00:00,,184.0,,,,,,d_Unhealthy,2
+1538.jpg,Banani,2022-09-03 16:00:00,,59.0,,,,,,b_Moderate,2
+1539.jpg,Banani,2022-09-03 16:00:00,,95.0,,,,,,b_Moderate,2
+1540.jpg,Banani,2022-09-03 16:00:00,,95.0,,,,,,b_Moderate,2
+108.jpg,Romna,2020-08-14 17:00:00,,58.0,,,,,,b_Moderate,2
+241.jpg,Dhanmondi,2020-06-20 19:00:00,,108.0,,,,,,b_Moderate,2
+356.jpg,Gulshan - 1,2020-11-13 17:00:00,,112.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+357.jpg,Gulshan - 1,2020-11-13 17:00:00,,112.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+358.jpg,Gulshan - 1,2020-11-13 17:00:00,,112.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+309.jpg,Mohakhali,2020-10-26 17:00:00,,155.0,,,,,,d_Unhealthy,2
+310.jpg,Mohakhali,2020-10-26 17:00:00,,159.0,,,,,,d_Unhealthy,2
+1827.jpg,Banani,2022-09-24 15:00:00,,119.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1828.jpg,Banani,2022-09-24 15:00:00,,123.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+142.jpg,Siddheshwari,2020-09-24 16:00:00,,76.0,,,,,,b_Moderate,2
+143.jpg,Siddheshwari,2020-09-24 16:00:00,,76.0,,,,,,b_Moderate,2
+165.jpg,Romna,2020-10-14 15:00:00,,138.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1712.jpg,Banani,2022-09-16 14:00:00,,101.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1713.jpg,Banani,2022-09-16 14:00:00,,101.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1714.jpg,Banani,2022-09-16 14:00:00,,101.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1715.jpg,Banani,2022-09-16 14:00:00,,101.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1716.jpg,Banani,2022-09-16 14:00:00,,97.0,,,,,,b_Moderate,2
+1717.jpg,Banani,2022-09-16 14:00:00,,97.0,,,,,,b_Moderate,2
+77.JPG,"Near Brac Office, Gulshan Road",2020-11-10 17:00:00,,159.0,,,,,,d_Unhealthy,2
+204.jpg,Badda,2020-03-16 18:00:00,,143.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+971.jpg,Baridhara J-Block,2021-03-01 13:00:00,,176.0,,,,,,d_Unhealthy,2
+972.jpg,Baridhara J-Block,2021-03-01 13:00:00,,176.0,,,,,,d_Unhealthy,2
+973.jpg,Baridhara J-Block,2021-03-01 13:00:00,,176.0,,,,,,d_Unhealthy,2
+974.jpg,Baridhara J-Block,2021-03-01 13:00:00,,176.0,,,,,,d_Unhealthy,2
+975.jpg,Baridhara J-Block,2021-03-01 13:00:00,,176.0,,,,,,d_Unhealthy,2
+976.jpg,Baridhara J-Block,2021-03-01 13:00:00,,176.0,,,,,,d_Unhealthy,2
+977.jpg,Baridhara J-Block,2021-03-01 13:00:00,,176.0,,,,,,d_Unhealthy,2
+978.jpg,Baridhara J-Block,2021-03-01 13:00:00,,176.0,,,,,,d_Unhealthy,2
+979.jpg,Baridhara J-Block,2021-03-01 13:00:00,,176.0,,,,,,d_Unhealthy,2
+980.jpg,Baridhara J-Block,2021-03-01 13:00:00,,176.0,,,,,,d_Unhealthy,2
+981.jpg,Baridhara J-Block,2021-03-01 13:00:00,,176.0,,,,,,d_Unhealthy,2
+982.jpg,Baridhara J-Block,2021-03-01 13:00:00,,176.0,,,,,,d_Unhealthy,2
+983.jpg,Baridhara J-Block,2021-03-01 13:00:00,,176.0,,,,,,d_Unhealthy,2
+984.jpg,Baridhara J-Block,2021-03-01 13:00:00,,176.0,,,,,,d_Unhealthy,2
+1602.jpg,Banani,2022-09-08 15:00:00,,136.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1603.jpg,Banani,2022-09-08 15:00:00,,136.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1604.jpg,Banani,2022-09-08 15:00:00,,136.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1605.jpg,Banani,2022-09-08 15:00:00,,136.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1606.jpg,Banani,2022-09-08 15:00:00,,136.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1607.jpg,Banani,2022-09-08 15:00:00,,136.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+1608.jpg,Banani,2022-09-08 15:00:00,,136.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+570.jpg,Baridhara J-Block,2020-12-23 13:00:00,,201.0,,,,,,d_Unhealthy,2
+571.jpg,Baridhara J-Block,2020-12-23 13:00:00,,201.0,,,,,,d_Unhealthy,2
+572.jpg,Baridhara J-Block,2020-12-23 13:00:00,,201.0,,,,,,d_Unhealthy,2
+573.jpg,Baridhara J-Block,2020-12-23 13:00:00,,201.0,,,,,,d_Unhealthy,2
+574.jpg,Baridhara J-Block,2020-12-23 13:00:00,,201.0,,,,,,d_Unhealthy,2
+575.jpg,Baridhara J-Block,2020-12-23 13:00:00,,201.0,,,,,,d_Unhealthy,2
+576.jpg,Baridhara J-Block,2020-12-23 13:00:00,,201.0,,,,,,d_Unhealthy,2
+577.jpg,Baridhara J-Block,2020-12-23 13:00:00,,201.0,,,,,,d_Unhealthy,2
+578.jpg,Baridhara J-Block,2020-12-23 13:00:00,,201.0,,,,,,d_Unhealthy,2
+579.jpg,Baridhara J-Block,2020-12-23 13:00:00,,201.0,,,,,,d_Unhealthy,2
+580.jpg,Baridhara J-Block,2020-12-23 13:00:00,,201.0,,,,,,d_Unhealthy,2
+581.jpg,Baridhara J-Block,2020-12-23 13:00:00,,201.0,,,,,,d_Unhealthy,2
+582.jpg,Baridhara J-Block,2020-12-23 13:00:00,,201.0,,,,,,d_Unhealthy,2
+583.jpg,Baridhara J-Block,2020-12-23 13:00:00,,201.0,,,,,,d_Unhealthy,2
+584.jpg,Baridhara J-Block,2020-12-23 13:00:00,,201.0,,,,,,d_Unhealthy,2
+585.jpg,Baridhara J-Block,2020-12-23 13:00:00,,201.0,,,,,,d_Unhealthy,2
+586.jpg,Baridhara J-Block,2020-12-23 13:00:00,,201.0,,,,,,d_Unhealthy,2
+587.jpg,Baridhara J-Block,2020-12-23 13:00:00,,201.0,,,,,,d_Unhealthy,2
+837.jpg,Baridhara J-Block,2020-12-31 17:00:00,,173.0,,,,,,d_Unhealthy,2
+838.jpg,Baridhara J-Block,2020-12-31 17:00:00,,173.0,,,,,,d_Unhealthy,2
+839.jpg,Baridhara J-Block,2020-12-31 17:00:00,,173.0,,,,,,d_Unhealthy,2
+840.jpg,Baridhara J-Block,2020-12-31 17:00:00,,173.0,,,,,,d_Unhealthy,2
+841.jpg,Baridhara J-Block,2020-12-31 17:00:00,,173.0,,,,,,d_Unhealthy,2
+842.jpg,Baridhara J-Block,2020-12-31 17:00:00,,173.0,,,,,,d_Unhealthy,2
+843.jpg,Baridhara J-Block,2020-12-31 17:00:00,,173.0,,,,,,d_Unhealthy,2
+844.jpg,Baridhara J-Block,2020-12-31 17:00:00,,173.0,,,,,,d_Unhealthy,2
+845.jpg,Baridhara J-Block,2020-12-31 17:00:00,,173.0,,,,,,d_Unhealthy,2
+846.jpg,Baridhara J-Block,2020-12-31 17:00:00,,173.0,,,,,,d_Unhealthy,2
+847.jpg,Baridhara J-Block,2020-12-31 17:00:00,,173.0,,,,,,d_Unhealthy,2
+848.jpg,Baridhara J-Block,2020-12-31 17:00:00,,173.0,,,,,,d_Unhealthy,2
+849.jpg,Baridhara J-Block,2020-12-31 17:00:00,,173.0,,,,,,d_Unhealthy,2
+850.jpg,Baridhara J-Block,2020-12-31 17:00:00,,173.0,,,,,,d_Unhealthy,2
+851.jpg,Baridhara J-Block,2020-12-31 17:00:00,,173.0,,,,,,d_Unhealthy,2
+852.jpg,Baridhara J-Block,2020-12-31 17:00:00,,173.0,,,,,,d_Unhealthy,2
+853.jpg,Baridhara J-Block,2020-12-31 17:00:00,,173.0,,,,,,d_Unhealthy,2
+854.jpg,Baridhara J-Block,2020-12-31 17:00:00,,173.0,,,,,,d_Unhealthy,2
+855.jpg,Baridhara J-Block,2020-12-31 17:00:00,,173.0,,,,,,d_Unhealthy,2
+856.jpg,Baridhara J-Block,2020-12-31 17:00:00,,173.0,,,,,,d_Unhealthy,2
+857.jpg,Baridhara J-Block,2020-12-31 17:00:00,,173.0,,,,,,d_Unhealthy,2
+858.jpg,Baridhara J-Block,2020-12-31 17:00:00,,173.0,,,,,,d_Unhealthy,2
+166.jpg,Romna,2020-10-16 13:00:00,,107.0,,,,,,c_Unhealthy_for_Sensitive_Groups,2
+217.jpg,Farmgate,2020-08-14 13:00:00,,56.0,,,,,,b_Moderate,2
+225.jpg,Mohammadpur,2020-12-09 12:00:00,,54.0,,,,,,b_Moderate,2
+247.jpg,Baridhara J-Block,2020-09-14 14:00:00,,63.0,,,,,,b_Moderate,2
+248.jpg,Baridhara J-Block,2020-09-14 14:00:00,,63.0,,,,,,b_Moderate,2
+249.jpg,Baridhara J-Block,2020-09-14 14:00:00,,63.0,,,,,,b_Moderate,2
+433.jpg,Baridhara J-Block,2020-10-14 13:00:00,,160.0,,,,,,d_Unhealthy,2
+434.jpg,Baridhara J-Block,2020-10-14 13:00:00,,160.0,,,,,,d_Unhealthy,2
+435.jpg,Baridhara J-Block,2020-10-14 13:00:00,,160.0,,,,,,d_Unhealthy,2
+436.jpg,Baridhara J-Block,2020-10-14 13:00:00,,160.0,,,,,,d_Unhealthy,2
+130.jpg,Mirpur 16,2020-09-19 14:00:00,,53.0,,,,,,b_Moderate,2
